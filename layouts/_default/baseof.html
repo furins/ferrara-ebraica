@@ -9,6 +9,9 @@
         {{- block "main" . }}{{- end }}
     </div>
     {{- partial "footer.html" . -}}
+    {{ if .IsHome }}
+    <script src="/js/lite-yt-embed.js"></script>
+    {{ end }}
 </body>
 
 </html>

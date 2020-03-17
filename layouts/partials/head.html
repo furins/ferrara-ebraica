@@ -9,6 +9,9 @@
     href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+  {{ if .IsHome }}
+  <link href="/css/lite-yt-embed.css" rel="stylesheet">   
+  {{ end }}
   <link href="/css/pure-min.css" rel="stylesheet">
   <link href="/css/theme.css" rel="stylesheet">
 

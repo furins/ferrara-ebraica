@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "run-p start:**",
-    "start:hugo": "hugo server -d ../dist -vw",
+    "start:hugo": "hugo server -d ./dist -vw",
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- -D -F",
-    "prebuild": "rimraf dist",
+    "prebuild": "rimraf ./dist",
     "build": "npm run build:hugo",
     "build:preview": "npm npm run build:hugo:preview",
-    "build:hugo": "hugo -d ../dist -v",
+    "build:hugo": "hugo -d ./dist -v",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "test": "echo \"Error: no test specified\" && exit 1",
     "css-deploy": "npm run css-postcss",
@@ -24,18 +24,22 @@
   },
   "author": "",
   "devDependencies": {
+    "autoprefixer": "^9.4.7",
     "fancy-log": "^1.3.2",
     "hugo-bin": "^0.55.0",
     "npm-run-all": "^4.1.5",
     "plugin-error": "^1.0.1",
+    "postcss-cli": "^6.1.1",
     "postcss-import": "^12.0.1",
-    "autoprefixer": "^9.4.7",
     "rimraf": "^3.0.0",
-    "postcss-cli": "^6.1.1"
+    "video.js": "^7.6.6"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/furins/ferrara-ebraica/issues"
   },
-  "homepage": "https://ferraraebraica.meis.museum/"
+  "homepage": "https://ferraraebraica.meis.museum/",
+  "dependencies": {
+    "videojs-youtube": "^2.6.1"
+  }
 }
