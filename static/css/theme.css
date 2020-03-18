@@ -17,6 +17,10 @@ body, .breadcrumb, .pure-g [class*=pure-u] {
     font-family: 'Playfair Display', serif;
 }
 
+.breadcrumb [class*=pure-u] {
+    vertical-align: middle;
+}
+
 body {
     background-color: #176941;
     line-height: 1.7em;
@@ -103,6 +107,7 @@ h1, h2, h3, h4, h5, h6, label {
     vertical-align: middle;
     height: 2rem;
     padding: 0 1rem;
+
 }
 .breadcrumb a,
 .breadcrumb a:hover,
@@ -110,21 +115,32 @@ h1, h2, h3, h4, h5, h6, label {
 .breadcrumb a:active {
     color: white;
     vertical-align: middle;
-    line-height: 1rem;
+    line-height: 2rem;
    text-decoration: none;
    cursor: pointer;
+   display: inline-block;
+   vertical-align: middle;
 }
 
 .left {
-    text-align: left;
+    text-align: left;    
+    display: flex;
+    align-items: left;
+    justify-content: left;
 }
 
 .right {
     text-align: right;
+    display: flex;
+    align-items: right;
+    justify-content: right;
 }
 
 .center {
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .no-mobile {
