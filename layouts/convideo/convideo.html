@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="content-wrapper">
+    {{ partial "breadcrumb" . }}
+    <lite-youtube lang="{{ .Language.Lang }}" videoid="{{ .Params.videoid }}"
+        style="background-image: url('{{.Params.copertina}}');">
+    </lite-youtube>
+    <div class="content">
+        {{.Content}}
+    </div>
+</div>
+{{end}}
+
+{{define "postfooter" }}
+<script src="/js/lite-yt-embed.js"></script>
+{{ end }}
+
+{{define "customcss" }}
+<link href="/css/lite-yt-embed.css" rel="stylesheet">
+{{ end }}

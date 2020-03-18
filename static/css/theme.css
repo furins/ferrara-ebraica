@@ -11,15 +11,17 @@ scuro: #0b311f
 
 /*
  * -- BASE STYLES --
- * Most of these are inherited from Base, but I want to change a few.
  */
+
+body, .breadcrumb, .pure-g [class*=pure-u] {
+    font-family: 'Playfair Display', serif;
+}
 
 body {
     background-color: #176941;
     line-height: 1.7em;
     color: #fff;
     font-size: 18px;
-    font-family: 'Playfair Display', serif;
 }
 
 h1, h2, h3, h4, h5, h6, label {
@@ -73,6 +75,60 @@ h1, h2, h3, h4, h5, h6, label {
     max-width: 1280px;
     width: 100%;
     margin: 3em auto;
+    padding: 0 1em;
+}
+
+.content-center {
+    text-align: center;
+    max-width: 1280px;
+    width: 100%;
+    margin: 3em auto;
+    padding: 0 1em;
+}
+
+.content-small {
+    font-size: 90%;
+}
+
+.content-center .pure-button {
+    width: 100%;
+}
+
+.breadcrumb {
+    text-align: right;
+    max-width: 1280px;
+    width: 100%;
+    margin: 1rem auto;
+    line-height: 2rem;
+    vertical-align: middle;
+    height: 2rem;
+    padding: 0 1rem;
+}
+.breadcrumb a,
+.breadcrumb a:hover,
+.breadcrumb a:visited,
+.breadcrumb a:active {
+    color: white;
+    vertical-align: middle;
+    line-height: 1rem;
+   text-decoration: none;
+   cursor: pointer;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.no-mobile {
+    visibility: hidden;
 }
 
 /*
@@ -294,8 +350,9 @@ a.pure-button-primary {
 }
 
 .logo .brand img {
-    left: 140px;
+    left: 5vw;
     height: 280px;
+    max-width: 90vw;
     position: absolute;
 }
 
@@ -317,6 +374,26 @@ lite-youtube {
     margin: 0 auto;
 }
 
+.arrow-right {
+    width: 0;
+    height: 0;
+    border-top: 1rem solid transparent;
+    border-bottom: 1rem solid transparent;
+    border-left: 1rem solid #fff;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.arrow-left {
+    width: 0;
+    height: 0;
+    border-top: 1rem solid transparent;
+    border-bottom: 1rem solid transparent;
+    border-right: 1rem solid #fff;
+    display: inline-block;
+    margin-right: 15px;
+}
+
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
  * On tablets and other medium-sized devices, we want to customize some
@@ -324,6 +401,10 @@ lite-youtube {
  */
 
 @media (min-width: 48em) {
+    .no-mobile {
+        visibility: visible;
+    }
+
     /* We increase the body font size */
     body {
         font-size: 18px;
@@ -353,6 +434,9 @@ lite-youtube {
     .l-box-lrg {
         border: none;
     }
+    .content-right {
+        padding: 0;
+    }
 }
 
 /*
@@ -363,6 +447,9 @@ lite-youtube {
 
 @media (min-width: 78em) {
     /* We increase the header font size even more */
+    .logo .brand img {
+        left: 140px;
+    }
     .splash-head {
         font-size: 300%;
     }

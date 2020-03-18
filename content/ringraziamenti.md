@@ -1,0 +1,1 @@
+La realizzazione è stata resa possibile grazie alla collaborazione del Comune di Ferrara e della Comunità ebraica di Ferrara (che ha prestato al MEIS gran parte degli oggetti esposti), con il sostegno di Holding Ferrara Servizi e il patrocinio della Regione Emilia-Romagna e dell'Unione delle Comunità Ebraiche Italiane.

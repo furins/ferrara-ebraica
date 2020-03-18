@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ .Language.Lang }}">
-{{- partial "head.html" . -}}
+
+<head>
+    {{- partial "head.html" . -}}
+    {{- block "customcss" . }}{{- end }}
+</head>
 
 <body>
     {{- partial "header.html" . -}}
@@ -9,9 +13,7 @@
         {{- block "main" . }}{{- end }}
     </div>
     {{- partial "footer.html" . -}}
-    {{ if .IsHome }}
-    <script src="/js/lite-yt-embed.js"></script>
-    {{ end }}
+    {{- block "postfooter" . }}{{- end }}
 </body>
 
 </html>

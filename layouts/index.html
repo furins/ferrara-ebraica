@@ -1,16 +1,19 @@
 {{ define "main" }}
+{{ $intestazione := .Site.GetPage "page" "_index.md" }}
+{{ $ringraziamenti := .Site.GetPage "page" "ringraziamenti.md" }}
+
 {{ partial "logo.html" . }}
 <div class="content-wrapper">
     <div class="content">
-        {{ .Content }}
+        {{ $intestazione.Content }}
     </div>
 
-    <lite-youtube videoid="IFzvKsmGCFk" style="background-image: url('/img/copertina.png');"></lite-youtube>
-
-    <div class="content-right">
-        <a href="#" class="pure-button pure-button-primary"> Prosegui la visita</a>
+    <div class="content-center">
+        <a href="{{ "introduzione" | relLangURL }}" class="pure-button pure-button-primary"> Inizia la visita</a>
     </div>
 
+    <div class="content content-small">
+        {{ $ringraziamenti.Content }}
+    </div>
 </div>
-
 {{ end }}

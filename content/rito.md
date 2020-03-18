@@ -2,6 +2,10 @@
 title: Rito
 permalink: rito
 ordine: 4
+btnNext: Prosegui la visita
+btnPrev: Pagina precedente
+next: oggetti_cerimoniali
+prev: sinagoga
 ---
 Nella società ebraica ferrarese il centro della vita comunitaria è la sinagoga, luogo dove si tengono le funzioni religiose, ma anche spazio di ritrovo.
 Per poter svolgere la preghiera pubblica, con la lettura della Torah, l’ebraismo prevede la presenza minima di 10 uomini ebrei, indicata con il termine minian.

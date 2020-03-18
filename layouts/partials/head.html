@@ -1,31 +1,26 @@
-<head>
-  <title>{{ .Title }} | {{ $.Site.Title }}</title>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ .Params.Description }}">    
+<title>{{ .Title }} | {{ $.Site.Title }}</title>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="{{ .Params.Description }}">
 
-  <base
-    href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+<base
+  href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-  {{ if .IsHome }}
-  <link href="/css/lite-yt-embed.css" rel="stylesheet">   
-  {{ end }}
-  <link href="/css/pure-min.css" rel="stylesheet">
-  <link href="/css/theme.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+<link href="/css/pure-min.css" rel="stylesheet">
+<link href="/css/theme.css" rel="stylesheet">
 
-  <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-  <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
-  <link rel="manifest" href="/manifest.json">
-  <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
-  <meta name="theme-color" content="#fff">
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
+<meta name="theme-color" content="#fff">
 
-  <!-- Open Graph -->
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ .Title }}">
-  <meta property="og:url" content="/">
-  <meta property="og:image" content="/img/og-image.jpg">
-</head>
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:url" content="/">
+<meta property="og:image" content="/img/og-image.jpg">

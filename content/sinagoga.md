@@ -2,8 +2,12 @@
 title: Sinagoga
 permalink: sinagoga
 ordine: 3
+btnNext: Prosegui la visita
+btnPrev: Pagina precedente
+next: rito
+prev: storia2
 ---
-La sinagoga, bet ha-knesset, è il luogo in cui gli ebrei si riuniscono per la preghiera e per lo studio della Torah. Un luogo di culto ebraico infatti, per poter
+La sinagoga, *bet ha-knesset*, è il luogo in cui gli ebrei si riuniscono per la preghiera e per lo studio della Torah. Un luogo di culto ebraico infatti, per poter
 essere definito tale, deve ospitare al suo interno almeno un Sefer Torah (Libro della Legge).
 I Rotoli della Torah sono contenuti nell'Aron ha-qodesh (armadio del santo/della santità), che è posto contro il muro della sinagoga, di norma rivolto verso Est,
 in direzione di Gerusalemme.

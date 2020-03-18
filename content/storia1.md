@@ -2,6 +2,10 @@
 title: Storia, parte 1
 permalink: storia_1
 ordine: 1
+btnNext: Prosegui la visita
+btnPrev: Pagina precedente
+next: storia2
+prev: introduzione
 ---
 Le prime notizie di insediamenti ebraici a Ferrara si hanno a partire dal XII secolo, mentre una più numerosa comunità si registra solo dalla prima metà del
 Duecento, in seguito all’arrivo di prestatori provenienti da Roma e dal centro Italia, con zona di insediamento nell’area di via Centoversuri.

@@ -1,20 +1,16 @@
 title = "Ferrara Ebraica | MEIS"
-theme = "ferrara-ebraica"
 defaultContentLanguage = "it"
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "tag"]
 
 [languages]
   [languages.en]
-    contentDir = "content/english"
     languageName = "EN"
     weight = 2
     [languages.en.params]
       description = "Ferrara Ebraica Exhibition at MEIS"
-      linkedin = "https://linkedin.com/whoever"
   [languages.it]
-    contentDir = "content/italian"
+    languageName = "IT"
     weight = 1
     [languages.it.params]
       description = "Mostra 'Ferrara Ebraica' presso il MEIS, Museo Nazionale dell'Ebraismo Italiano e della Shoah"
-      linkedin = "https://linkedin.com/it/whoever"
 

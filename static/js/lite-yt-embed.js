@@ -34,14 +34,14 @@ class LiteYTEmbed extends HTMLElement {
          *       - When doing this, apply referrerpolicy (https://github.com/ampproject/amphtml/pull/3940)
          * TODO: Consider using webp if supported, falling back to jpg
          */
-        this.posterUrl = `https://i.ytimg.com/vi/${this.videoId}/hqdefault.jpg`;
+        // this.posterUrl = `https://i.ytimg.com/vi/${this.videoId}/hqdefault.jpg`;
         // Warm the connection for the poster image
-        LiteYTEmbed.addPrefetch('preload', this.posterUrl, 'image');
+        // LiteYTEmbed.addPrefetch('preload', this.posterUrl, 'image');
         // TODO: support dynamically setting the attribute via attributeChangedCallback
     }
 
     connectedCallback() {
-        this.style.backgroundImage = `url("${this.posterUrl}")`;
+        //this.style.backgroundImage = `url("${this.posterUrl}")`;
 
         const playBtn = document.createElement('div');
         playBtn.classList.add('lty-playbtn');
