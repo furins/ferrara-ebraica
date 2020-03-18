@@ -1,0 +1,7 @@
+{{ if .IsNamedParams }}
+<img src="{{.Get "src" }}" alt="{{.Get "description" }}">
+<div class="didascalia">{{.Get "description" }}</div>
+{{ else }}
+<img src="{{.Get 0}}" alt="{{.Get 1}}">
+<div class="didascalia">{{.Get 1 }}</div>
+{{ end }}

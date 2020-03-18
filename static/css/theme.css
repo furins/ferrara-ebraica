@@ -107,46 +107,38 @@ h1, h2, h3, h4, h5, h6, label {
     vertical-align: middle;
     height: 2rem;
     padding: 0 1rem;
-
 }
-.breadcrumb a,
-.breadcrumb a:hover,
-.breadcrumb a:visited,
-.breadcrumb a:active {
+
+.breadcrumb a, .breadcrumb a:hover, .breadcrumb a:visited, .breadcrumb a:active {
     color: white;
     vertical-align: middle;
     line-height: 2rem;
-   text-decoration: none;
-   cursor: pointer;
-   display: inline-block;
-   vertical-align: middle;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
 }
 
 .left {
-    text-align: left;    
-    display: flex;
-    align-items: left;
-    justify-content: left;
+    text-align: left;
 }
 
 .right {
     text-align: right;
-    display: flex;
-    align-items: right;
-    justify-content: right;
 }
 
 .center {
     text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .no-mobile {
     visibility: hidden;
 }
 
+.didascalia {
+    font-size: 80%;
+    font-style: italic;
+    color: #9cf1c8;
+}
 /*
  * -- PURE BUTTON STYLES --
  * I want my pure-button elements to look a little different
@@ -420,7 +412,6 @@ lite-youtube {
     .no-mobile {
         visibility: visible;
     }
-
     /* We increase the body font size */
     body {
         font-size: 18px;

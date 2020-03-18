@@ -4,9 +4,11 @@ permalink: storia_1
 ordine: 1
 btnNext: Prosegui la visita
 btnPrev: Pagina precedente
-next: storia2
+next: mappa
 prev: introduzione
 ---
+{{< hero src="img/storia1.jpg" description="Il ghetto di Ferrara">}}
+
 Le prime notizie di insediamenti ebraici a Ferrara si hanno a partire dal XII secolo, mentre una più numerosa comunità si registra solo dalla prima metà del
 Duecento, in seguito all’arrivo di prestatori provenienti da Roma e dal centro Italia, con zona di insediamento nell’area di via Centoversuri.
 Il periodo di maggiore fioritura della comunità si attesta attorno al Quattrocento, quando le zone di residenza degli ebrei si spostano verso via Sabbioni, oggi

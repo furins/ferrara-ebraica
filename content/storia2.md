@@ -5,7 +5,7 @@ ordine: 2
 btnNext: Prosegui la visita
 btnPrev: Pagina precedente
 next: sinagoga
-prev: storia1
+prev: mappa
 ---
 Nei primi anni del Novecento, la comunità ebraica di Ferrara è composta da oltre 1000 persone, inserite nel tessuto sociale e culturale della città.
 Con l’avvento del fascismo, come numerosi concittadini, la maggioranza degli ebrei ferraresi (con alcune importanti eccezioni) accoglie la nuova dottrina, tanto
