@@ -1,5 +1,5 @@
 ---
-title: Cerimonial objects
+title: Oggetti cerimoniali
 permalink: oggetti_cerimoniali_4
 ordine: 5
 next: timore_isacco

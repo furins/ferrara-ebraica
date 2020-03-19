@@ -1,5 +1,5 @@
 ---
-title: Cerimonial objects
+title: Ceremonial objects
 permalink: oggetti_cerimoniali
 ordine: 5
 next: tas

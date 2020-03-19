@@ -1,5 +1,5 @@
 ---
-title: Cerimonial objects
+title: Ceremonial objects
 permalink: oggetti_cerimoniali_3
 ordine: 5
 next: meil
