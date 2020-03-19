@@ -2,8 +2,6 @@
 title: Rito
 permalink: rito
 ordine: 4
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: oggetti_cerimoniali
 prev: sinagoga
 ---

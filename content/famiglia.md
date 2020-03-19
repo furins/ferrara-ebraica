@@ -2,8 +2,6 @@
 title: Famiglia
 permalink: famiglia
 ordine: 6
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: storie_in_citta
 prev: interstiziale2
 ---

@@ -2,8 +2,6 @@
 title: Sinagoga
 permalink: sinagoga
 ordine: 3
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: rito
 prev: interstiziale1
 ---

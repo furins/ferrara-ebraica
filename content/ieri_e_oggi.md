@@ -2,8 +2,6 @@
 title: Ieri e oggi
 permalink: ieri_e_oggi
 ordine: 11
-btnNext: Torna alla home
-btnPrev: Pagina precedente
 next: ""
 prev: silvio_magrini
 ---

@@ -2,8 +2,6 @@
 title: Oggetti cerimoniali
 permalink: oggetti_cerimoniali_3
 ordine: 5
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: meil
 prev: rimmonim
 ---

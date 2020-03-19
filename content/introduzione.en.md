@@ -1,7 +1,9 @@
 ---
 title: Introduction
+type: convideo
 layout: convideo
 videoid: IFzvKsmGCFk
 copertina: /img/copertina.png
-bottone: Continue your visit
+next: storia1
+prev: ""
 ---

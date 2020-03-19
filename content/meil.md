@@ -1,9 +1,7 @@
 ---
-title: Oggetti cerimoniali
+title: Cerimonial objects
 permalink: oggetti_cerimoniali_4
 ordine: 5
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: timore_isacco
 prev: tas
 ---

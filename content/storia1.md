@@ -2,8 +2,6 @@
 title: Storia
 permalink: storia_1
 ordine: 1
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: storia2
 prev: introduzione
 ---

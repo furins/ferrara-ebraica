@@ -2,8 +2,6 @@
 title: Storie in città
 permalink: storie_in_citta
 ordine: 7
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: profumeria_finzi
 prev: famiglia
 ---

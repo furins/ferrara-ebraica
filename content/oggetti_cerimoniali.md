@@ -2,8 +2,6 @@
 title: Oggetti cerimoniali
 permalink: oggetti_cerimoniali
 ordine: 5
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: rimmonim
 prev: rito
 ---

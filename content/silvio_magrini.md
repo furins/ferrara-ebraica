@@ -2,8 +2,6 @@
 title: Silvio Magrini
 permalink: silvio_magrini
 ordine: 10
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: ieri_e_oggi
 prev: eccidio_castello
 ---

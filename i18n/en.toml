@@ -1,2 +1,11 @@
 [APPROFONDIMENTO]
 other = "INSIGHT"
+
+[Inizia_la_visita]
+other = "Start the visit"
+
+[btnNext]
+other = "Continue your visit"
+
+[btnPrev]
+other = "Previous page"

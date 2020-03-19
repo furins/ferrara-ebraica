@@ -2,8 +2,6 @@
 title: Profumeria Finzi
 permalink: profumeria_finzi
 ordine: 8
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: eccidio_castello
 prev: storie_in_citta
 ---

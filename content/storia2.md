@@ -2,10 +2,8 @@
 title: Storia
 permalink: storia_2
 ordine: 2
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: interstiziale1
-prev: mappa
+prev: storia1
 ---
 {{<row>}}
 {{<column>}}

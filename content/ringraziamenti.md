@@ -1,43 +1,51 @@
+---
+title: Credits
+permalink: credits
+ordine: 4
+prev: ""
+---
 La realizzazione è stata resa possibile grazie alla collaborazione del Comune di Ferrara e della Comunità ebraica di Ferrara (che ha prestato al MEIS gran parte degli oggetti esposti), con il sostegno di Holding Ferrara Servizi e il patrocinio della Regione Emilia-Romagna e dell'Unione delle Comunità Ebraiche Italiane.
 
-# Organizzata dal / organized by the
+# Organizzata dal
 Museo Nazionale dell’Ebraismo Italiano e della Shoah
 National Museum of Italian Judaism and the Shoah
-## Direzione / Direction
+## Direzione
 Simonetta Della Seta
-## a cura di / curated by
+## A cura di
 Sharon Reichel
-## Progettazione allestimento e Direzione lavori / Design and Works management
+## Progettazione allestimento e Direzione lavori
 Giulia Gallerani
-## Coordinamento sicurezza / Safety Manager
+## Coordinamento sicurezza
 Elisabetta Mancini
-## Comunicazione / Communication Officer
+## Comunicazione
 Rachel Silvera
-## Segreteria amministrativa / Administrative Secretariat
+## Segreteria amministrativa
 Nicola Novelli
-## Segreteria organizzativa / Organizational Secretariat
+## Segreteria organizzativa
 Alessandra Roncarati
 Donatella Buonfrate
-## Grafica e web / Graphics and Web
+## Grafica e web
 Stefano Furin
+## Foto
+Marco Caselli Nirmal
 ## Video “Ferrara ebraica”
-Regia / Film director Ruggero Gabbai
-Montaggio / Editor Cristian Dondi e Chiara Passoni
-Riprese / Shooting Giuseppe Scarfone e Ludovico Tesoro - Tess
-Produzione / Production Forma International
+**Regia** Ruggero Gabbai
+**Montaggio** Cristian Dondi e Chiara Passoni
+**Riprese** Giuseppe Scarfone e Ludovico Tesoro - Tess
+**Produzione** Forma International
 
 *il video è stato realizzato in collaborazione con Istituto di Storia Contemporanea di Ferrara con un contributo della Regione Emilia Romagna, legge Memoria del Novecento*
 
 ## Ritratti filmati / Videos portrait
-Regia / Film director Ruggero Gabbai
-Montaggio / Editor Mattia Schaumann
-Produzione / Production Forma International
-## Traduzioni / Translations
+**Regia** Ruggero Gabbai
+**Montaggio** Mattia Schaumann
+**Produzione**  Forma International
+## Traduzioni 
 Eileen Cartoon
 
-## Assicurazioni / Insurance
+## Assicurazioni 
 Generali Italia S.p.A.
-## Realizzazione e Forniture / Realisation and Product Supply
+## Realizzazione e Forniture 
 Digital Neon S.r.l.
 Oesse Solutions
 Cavallari Giancarlo & Roberto S.n.c.
@@ -45,20 +53,20 @@ Malinpensa Giuliano S.n.c.
 CSI Impianti
 
 # MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH
-## Presidente / President
+## Presidente 
 Dario Disegni
-## Consiglio di Amministrazione / Board of Directors
+## Consiglio di Amministrazione
 Renzo Gattegna
 Massimo Maisto
 Massimo Mezzetti
 Daniele Ravenna
-## Collegio Sindacale / Board of Auditors
-Fabio Giuliani, Presidente / President
+## Collegio Sindacale
+Fabio Giuliani, **Presidente** 
 Riccardo Bauer
 Greta Cestari
-## Direttore / Director
+## Direttore
 Simonetta Della Seta
-## Comitato Scientifico / Scientific Committee
+## Comitato Scientifico
 Donatella Calabi
 Enzo Campelli
 Luciano Caro
@@ -74,11 +82,11 @@ Paolo Mieli
 Mauro Perani
 Amedeo Spagnoletto
 
-## Biglietteria, informazioni e prenotazioni / Tickets, information and bookings
+## Biglietteria, informazioni e prenotazioni
 CoopCulture
-## Sicurezza / Security
+## Sicurezza
 Sicuritalia S.p.A.
-## Biblioteca / Library
+## Biblioteca
 Le Pagine
 
 *Si ringrazia per la preziosa collaborazione il Comune di Ferrara, in particolare il Sindaco Alan Fabbri,
@@ -87,12 +95,12 @@ e l’Assessore al Bilancio e Contabilità, Partecipazioni, Commercio e Turismo 
 Il MEIS è particolarmente grato alla Comunità Ebraica di Ferrara, al Presidente Fortunato Arbib e al
 Rabbino Capo Luciano Meir Caro*
 
-## Con la collaborazione di / with the collaboration of
+## Con la collaborazione di
 
 Comune di Ferrara
 Comunità Ebraica di Ferrara
-## Con il sostegno di / with the support of
+## Con il sostegno di
 Holding Ferrara Servizi
-## Con il patrocinio di / under the patronage of
+## Con il patrocinio di
 Regione Emilia-Romagna
 UCEI

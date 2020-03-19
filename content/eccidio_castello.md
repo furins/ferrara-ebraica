@@ -2,8 +2,6 @@
 title: Eccidio del Castello
 permalink: eccidio_castello
 ordine: 9
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: silvio_magrini
 prev: profumeria_finzi
 ---

@@ -2,8 +2,6 @@
 title: Oggetti cerimoniali
 permalink: oggetti_cerimoniali_2
 ordine: 5
-btnNext: Prosegui la visita
-btnPrev: Pagina precedente
 next: tas
 prev: oggetti_cerimoniali
 ---
