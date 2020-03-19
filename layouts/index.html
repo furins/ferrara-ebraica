@@ -1,19 +1,21 @@
 {{ define "main" }}
 {{ $intestazione := .Site.GetPage "page" "_index.md" }}
-{{ $ringraziamenti := .Site.GetPage "page" "ringraziamenti.md" }}
 
 {{ partial "logo.html" . }}
 <div class="content-wrapper">
+
+
     <div class="content">
         {{ $intestazione.Content }}
+    </div>
+    <div class="content">
+        <img class="pure-img" src="img/mappa.jpg" alt="Mappa di Ferrara e principali eventi">
     </div>
 
     <div class="content-center">
         <a href="{{ "introduzione" | relLangURL }}" class="pure-button pure-button-primary"> Inizia la visita</a>
     </div>
 
-    <div class="content content-small">
-        {{ $ringraziamenti.Content }}
-    </div>
+
 </div>
 {{ end }}
