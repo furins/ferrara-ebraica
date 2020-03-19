@@ -37,8 +37,7 @@ h1, h2, h3, h4, h5, h6, label {
     height: auto;
 }
 
-.content,
-.breadcrumb {
+.content, .breadcrumb {
     background-color: rgba(23, 105, 65, 0.94);
 }
 
@@ -123,10 +122,11 @@ h1, h2, h3, h4, h5, h6, label {
     display: inline-block;
 }
 
-.footer a,
-.footer a:hover,
-.footer a:visited,
-.footer a:active {
+.contenuto .breadcrumb a.no-mobile, .contenuto .breadcrumb a.no-mobile:hover, .contenuto .breadcrumb a.no-mobile:visited, .contenuto .breadcrumb a.no-mobile:active {
+display: none;
+}
+
+.footer a, .footer a:hover, .footer a:visited, .footer a:active {
     text-decoration: none;
     color: white;
 }
@@ -295,6 +295,7 @@ a.pure-button-primary {
     color: white;
     text-decoration: underline;
 }
+
 .contenuto .pure-button-primary a, .contenuto .pure-button-primary a:hover, .contenuto .pure-button-primary a:active, .contenuto .pure-button-primary a:visited {
     color: #176941;
     text-decoration: underline;
@@ -316,8 +317,6 @@ a.pure-button-primary {
     max-width: 1280px;
     margin: 0 auto;
 }
-
-
 
 /* This is the class used for the main content headers (<h2>) */
 
@@ -473,18 +472,22 @@ lite-youtube {
  */
 
 @media (min-width: 48em) {
+    .contenuto .breadcrumb a, .contenuto .breadcrumb a:hover, .contenuto .breadcrumb a:visited, .contenuto .breadcrumb a:active {
+        display: inline-block;
+    }
+    .contenuto .breadcrumb a.no-mobile, .contenuto .breadcrumb a.no-mobile:hover, .contenuto .breadcrumb a.no-mobile:visited, .contenuto .breadcrumb a.no-mobile:active {
+        display: inline-block;
+        }
     .finzi {
         background-image: url('/img/finzi2.png');
         background-repeat: no-repeat;
         background-position: 0 0;
     }
-
     .magrini {
         background-image: url('/img/magrini.png');
         background-repeat: no-repeat;
         background-position: 0 0;
     }
-
     .approfondimento figure {
         margin-block-start: 1em;
         margin-block-end: 1em;
