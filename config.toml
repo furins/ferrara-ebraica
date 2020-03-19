@@ -1,6 +1,7 @@
 title = "Ferrara Ebraica | MEIS"
 defaultContentLanguage = "it"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "tag"]
+enableInlineShortcodes = true
 
 [languages]
   [languages.en]
@@ -8,9 +9,11 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "tag"]
     weight = 2
     [languages.en.params]
       description = "Ferrara Ebraica Exhibition at MEIS"
+      credits = "/en/ringraziamenti"
   [languages.it]
     languageName = "IT"
     weight = 1
     [languages.it.params]
       description = "Mostra 'Ferrara Ebraica' presso il MEIS, Museo Nazionale dell'Ebraismo Italiano e della Shoah"
+      credits = "/ringraziamenti"
 

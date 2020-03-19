@@ -1,10 +1,9 @@
 ---
-title: Timeline
-permalink: timeline
+title: Mappa di Ferrara
+permalink: mappa
 ordine: 1
 btnNext: Prosegui la visita
 btnPrev: Pagina precedente
 next: storia2
 prev: storia1
 ---
-{{< hero src="img/mappa.jpg" description="Timeline">}}

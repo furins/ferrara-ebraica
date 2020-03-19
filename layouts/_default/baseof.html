@@ -6,7 +6,7 @@
     {{- block "customcss" . }}{{- end }}
 </head>
 
-<body>
+<body class="{{.Params.classe}}">
     {{- partial "header.html" . -}}
     {{- partial "nav.html" . -}}
     <div class="contenuto">
