@@ -8,6 +8,7 @@ prev: interstiziale1
 {{<row>}}
 {{<column>}}
 {{< img src="/img/aron.jpg" >}}
+{{< img src="/img/corona.jpg" >}}
 {{</column>}}
 {{<column>}}
 {{% p %}}The synagogue, *bet ha-knesset*, is the place where Jews come together to pray and study the Torah. In fact, to be defined as such, a Jewish place of worship must hold at least one Sefer Torah (the “Book” of the Law).
@@ -23,6 +24,7 @@ Fanese synagogue, built in the 17th century, are currently in use.
 
 The presence of three synagogues in the same building stems from the donation of that house to the community by its owner Ser Mele in 1485. In his will, he
 bequeathed the building on the condition that it should not be transferred and only used as a meeting space reserved for prayers.{{% /p %}}
+
 {{</column>}}
 {{</row>}}
 

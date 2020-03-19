@@ -24,6 +24,6 @@ acquisti in città, fino alla sua definitiva chiusura.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/finzi2.png" class="altezza-massima" >}}
+{{< img src="/img/finzi2.jpg" class="altezza-massima" >}}
 {{</column>}}
 {{</row>}}

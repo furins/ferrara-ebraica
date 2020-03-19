@@ -9,3 +9,9 @@ other = "Continue your visit"
 
 [btnPrev]
 other = "Previous page"
+
+[mappa]
+other = "map.png"
+
+[mappa_desc]
+other="Map of Ferrara and main historical events"

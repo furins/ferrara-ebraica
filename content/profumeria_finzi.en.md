@@ -24,6 +24,6 @@ for shopping until it was finally closed.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/finzi2.png" class="altezza-massima" >}}
+{{< img src="/img/finzi2.jpg" class="altezza-massima" >}}
 {{</column>}}
 {{</row>}}

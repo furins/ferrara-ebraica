@@ -8,6 +8,7 @@ prev: interstiziale1
 {{<row>}}
 {{<column>}}
 {{< img src="/img/aron.jpg" >}}
+{{< img src="/img/corona.jpg" >}}
 {{</column>}}
 {{<column>}}
 {{% p %}}La sinagoga, *bet ha-knesset*, è il luogo in cui gli ebrei si riuniscono per la preghiera e per lo studio della Torah. Un luogo di culto ebraico infatti, per poter

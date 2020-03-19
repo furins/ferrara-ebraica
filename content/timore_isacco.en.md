@@ -1,5 +1,5 @@
 ---
-title: Oggetti cerimoniali
+title: Cerimonial objects
 permalink: oggetti_cerimoniali_5
 ordine: 5
 next: interstiziale2

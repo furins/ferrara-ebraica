@@ -32,7 +32,6 @@ The Jewish year is written in Hebrew letters, each of which has a numerical valu
 often dots.{{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/corona.jpg" >}}
 {{< img src="/img/corone.jpg" >}}
 {{</column>}}
 {{</row>}}

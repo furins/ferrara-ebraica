@@ -34,7 +34,6 @@ La data è espressa in lettere dell’alfabeto ebraico, ad ogni lettera corrispo
 indicate da piccoli segni, spesso punti.{{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/corona.jpg" >}}
 {{< img src="/img/corone.jpg" >}}
 {{</column>}}
 {{</row>}}
