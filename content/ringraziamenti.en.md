@@ -4,7 +4,9 @@ permalink: credits
 ordine: 4
 prev: ""
 ---
-The realization was made possible thanks to the collaboration of the Municipality of Ferrara and the Jewish Community of Ferrara (which lent most of the exhibits to MEIS), with the support of  Ferrara Servizi Holding and the patronage of the Emilia-Romagna Region and the Union of Italian Jewish Communities.
+##### The realization of the exhibition was made possible thanks to the collaboration of the MUNICIPALITY OF FERRARA and the JEWISH COMMUNITY OF FERRARA, which lent to MEIS most of the objects exhibited and presented here. The exhibition was supported by HOLDING FERRARA SERVIZI, with the patronage of the Emilia-Romagna Region and the Union of Italian Jewish Communities.
+
+##### MEIS thanks in particular the Mayor Alan Fabbri, the Councilor for Culture, Museums, Historical Monuments and Civilization of Ferrara UNESCO Marco Gulinelli and the Councilor for Budget and Accounting, Participations, Trade and Tourism Matteo Fornasini, and it is particularly grateful to the President of the Jewish Community of Ferrara Fortunato Arbib and to the Chief Rabbi Luciano Meir Caro.
 
 # Organized by the
 National Museum of Italian Judaism and the Shoah
@@ -27,6 +29,8 @@ Donatella Buonfrate
 Stefano Furin
 ## Photography
 Marco Caselli Nirmal
+## Music
+Enrico Fink
 ## Video “Ferrara ebraica”
 **Film director** Ruggero Gabbai
 *Editor* Cristian Dondi and Chiara Passoni
@@ -56,31 +60,16 @@ CSI Impianti
 ## President
 Dario Disegni
 ## Board of Directors
-Renzo Gattegna
-Massimo Maisto
+Gloria Arbib
 Massimo Mezzetti
+Giovanni Franco Pernisa
 Daniele Ravenna
 ## Board of Auditors
 Fabio Giuliani, **President**
+Francesco Badia
 Riccardo Bauer
-Greta Cestari
 ## Director
 Simonetta Della Seta
-## Scientific Committee
-Donatella Calabi
-Enzo Campelli
-Luciano Caro
-Tania Coen-Uzzielli
-Manuela Consonni
-Roberto Della Rocca
-Alain Elkann
-Aldo Grasso
-Gadi Luzzatto Voghera
-Saul Meghnagi
-Alberto Melloni
-Paolo Mieli
-Mauro Perani
-Amedeo Spagnoletto
 
 ## Tickets, information and bookings
 CoopCulture
@@ -88,12 +77,6 @@ CoopCulture
 Sicuritalia S.p.A.
 ## Library
 Le Pagine
-
-*We would thank the Municipality of Ferrara, in particular the Mayor Alan Fabbri,
-the Councilor for Culture, Museums, Historical Monuments and Ferrarese Civilization, Unesco Marco Gulinelli
-and the Councilor for Budget and Accounting, Equity Investments, Commerce and Tourism Matteo Fornasini for the valuable collaboration.
-The MEIS is particularly grateful to the Jewish Community of Ferrara, to the President Fortunato Arbib and to the
-Chief Rabbi Luciano Meir Caro*
 
 ## With the collaboration of
 

@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="content-wrapper">
+    {{ partial "breadcrumb" . }}
+    <div class="content">
+        {{.Content}}
+    </div>
+    <div class="content">
+        <img class="pure-img" src="img/{{ T "mappa"}}" alt="{{ T "mappa_desc"}}">
+    </div>
+</div>
+{{end}}

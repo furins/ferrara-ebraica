@@ -78,9 +78,9 @@ lite-youtube>.lty-playbtn {
         content: "Guarda il video";
     }
     lite-youtube>.lty-playbtn {
-        transform: translate3d(-80%, 80%, 0);
-        top: 80%;
-        left: 80%;
+        transform: translate3d(-60%, 60%, 0);
+        top: 60%;
+        left: 60%;
     }
     lite-youtube {
         background-color: #176941;

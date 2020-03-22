@@ -15,3 +15,12 @@ other = "mappa.png"
 
 [mappa_desc]
 other="Mappa di Ferrara e principali eventi"
+
+[interviste]
+other="Guarda le video interviste"
+
+[e]
+other="e"
+
+[rav]
+other="Rav"

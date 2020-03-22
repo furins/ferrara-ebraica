@@ -4,7 +4,9 @@ permalink: credits
 ordine: 4
 prev: ""
 ---
-La realizzazione è stata resa possibile grazie alla collaborazione del Comune di Ferrara e della Comunità ebraica di Ferrara (che ha prestato al MEIS gran parte degli oggetti esposti), con il sostegno di Holding Ferrara Servizi e il patrocinio della Regione Emilia-Romagna e dell'Unione delle Comunità Ebraiche Italiane.
+##### La realizzazione è stata resa possibile grazie alla collaborazione del COMUNE DI FERRARA  e della COMUNITÀ  EBRAICA DI FERRARA, che ha prestato al MEIS gran parte degli oggetti esposti e qui presentati. La mostra è stata sostenuta da HOLDING FERRARA SERVIZI, con il patrocinio della Regione Emilia-Romagna e dell’Unione delle Comunità Ebraiche Italiane. 
+
+##### Il MEIS ringrazia  in particolare il Sindaco Alan Fabbri, l’Assessore alla Cultura, Musei, Monumenti Storici e Civiltà Ferrarese, Unesco Marco Gulinelli e l’Assessore al Bilancio e Contabilità, Partecipazioni, Commercio e Turismo Matteo Fornasini, ed  è particolarmente grato  al Presidente della Comunità Ebraica di Ferrara Fortunato Arbib ed al Rabbino Capo Luciano Meir Caro.
 
 # Organizzata dal
 Museo Nazionale dell’Ebraismo Italiano e della Shoah
@@ -13,7 +15,7 @@ National Museum of Italian Judaism and the Shoah
 Simonetta Della Seta
 ## A cura di
 Sharon Reichel
-## Progettazione allestimento e Direzione lavori
+## Progettazione allestimento e direzione lavori
 Giulia Gallerani
 ## Coordinamento sicurezza
 Elisabetta Mancini
@@ -28,6 +30,8 @@ Donatella Buonfrate
 Stefano Furin
 ## Foto
 Marco Caselli Nirmal
+## Musiche
+Enrico Fink
 ## Video “Ferrara ebraica”
 **Regia** Ruggero Gabbai
 **Montaggio** Cristian Dondi e Chiara Passoni
@@ -36,7 +40,7 @@ Marco Caselli Nirmal
 
 *il video è stato realizzato in collaborazione con Istituto di Storia Contemporanea di Ferrara con un contributo della Regione Emilia Romagna, legge Memoria del Novecento*
 
-## Ritratti filmati / Videos portrait
+## Ritratti filmati
 **Regia** Ruggero Gabbai
 **Montaggio** Mattia Schaumann
 **Produzione**  Forma International
@@ -56,31 +60,16 @@ CSI Impianti
 ## Presidente 
 Dario Disegni
 ## Consiglio di Amministrazione
-Renzo Gattegna
-Massimo Maisto
+Gloria Arbib
 Massimo Mezzetti
+Giovanni Franco Pernisa
 Daniele Ravenna
 ## Collegio Sindacale
 Fabio Giuliani, **Presidente** 
+Francesco Badia
 Riccardo Bauer
-Greta Cestari
 ## Direttore
 Simonetta Della Seta
-## Comitato Scientifico
-Donatella Calabi
-Enzo Campelli
-Luciano Caro
-Tania Coen-Uzzielli
-Manuela Consonni
-Roberto Della Rocca
-Alain Elkann
-Aldo Grasso
-Gadi Luzzatto Voghera
-Saul Meghnagi
-Alberto Melloni
-Paolo Mieli
-Mauro Perani
-Amedeo Spagnoletto
 
 ## Biglietteria, informazioni e prenotazioni
 CoopCulture
@@ -88,12 +77,6 @@ CoopCulture
 Sicuritalia S.p.A.
 ## Biblioteca
 Le Pagine
-
-*Si ringrazia per la preziosa collaborazione il Comune di Ferrara, in particolare il Sindaco Alan Fabbri,
-l’Assessore alla Cultura, Musei, Monumenti Storici e Civiltà Ferrarese, Unesco Marco Gulinelli
-e l’Assessore al Bilancio e Contabilità, Partecipazioni, Commercio e Turismo Matteo Fornasini
-Il MEIS è particolarmente grato alla Comunità Ebraica di Ferrara, al Presidente Fortunato Arbib e al
-Rabbino Capo Luciano Meir Caro*
 
 ## Con la collaborazione di
 
