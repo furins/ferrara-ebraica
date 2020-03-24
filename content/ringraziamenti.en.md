@@ -30,7 +30,9 @@ Stefano Furin
 ## Photography
 Marco Caselli Nirmal
 ## Music
-Enrico Fink
+**Recordings** Enrico Fink. 
+**Musicians** Enrico Fink, Arlo Bigazzi, Frank London, Gabriele Coen, Stefano Saletti, Giuseppe de Trizio, Roni Beraha, Matteo Scarpettini, Giovanni Cifariello, Massimiliano Dragoni, Francis Biggi, Avery Gosfield, Marco Ferrari
+
 ## Video “Ferrara ebraica”
 **Film director** Ruggero Gabbai
 *Editor* Cristian Dondi and Chiara Passoni

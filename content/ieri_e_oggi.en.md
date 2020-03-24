@@ -2,7 +2,7 @@
 title: Past and Present
 permalink: ieri_e_oggi
 ordine: 11
-next: ""
+next: "/"
 prev: silvio_magrini
 ---
 {{<row>}}

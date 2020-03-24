@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="content-wrapper">
+    {{ partial "breadcrumb" . }}
+    <div class="content">
+        <h2 style="margin-bottom: 0;">{{ T "interviste"}}</h2>
+        {{.Content}}
+        <div class="pure-g">
+            <div class="pure-u-1 pure-u-md-1-2" style="padding: 10px;">
+                <h4 style="margin-bottom: 0;">Andrea Pesaro {{ T "e"}} Alessandro Zarfati</h4>
+                <lite-youtube lang="{{ .Language.Lang }}" videoid="wNnBftjPl04"
+                    style="background-image: url('http://i3.ytimg.com/vi/wNnBftjPl04/hqdefault.jpg');">
+                </lite-youtube>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-2" style="padding: 10px;">
+                <h4 style="margin-bottom: 0;">Baruch Lampronti</h4>
+                <lite-youtube lang="{{ .Language.Lang }}" videoid="kdPIAL6v0iw"
+                    style="background-image: url('http://i3.ytimg.com/vi/kdPIAL6v0iw/hqdefault.jpg');">
+                </lite-youtube>
+            </div> </div>
+            <div class="pure-g">
+                <div class="pure-u-1 pure-u-md-1-2" style="padding: 10px;">
+                    <h4 style="margin-bottom: 0;">Jose Bonfiglioli</h4>
+                    <lite-youtube lang="{{ .Language.Lang }}" videoid="dtVhIG91fb8"
+                        style="background-image: url('http://i3.ytimg.com/vi/dtVhIG91fb8/hqdefault.jpg');">
+                    </lite-youtube>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2" style="padding: 10px;">
+                    <h4 style="margin-bottom: 0;">Marcella Ravenna</h4>
+                    <lite-youtube lang="{{ .Language.Lang }}" videoid="8tvdKqhO28M"
+                        style="background-image: url('http://i3.ytimg.com/vi/8tvdKqhO28M/hqdefault.jpg');">
+                    </lite-youtube>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1 pure-u-md-1-2" style="padding: 10px;">
+                    <h4 style="margin-bottom: 0;">Marcello Sacerdoti</h4>
+                    <lite-youtube lang="{{ .Language.Lang }}" videoid="wPDRL4GxCY0"
+                        style="background-image: url('http://i3.ytimg.com/vi/wPDRL4GxCY0/hqdefault.jpg');">
+                    </lite-youtube>
+                </div>
+                <div class="pure-u-1 pure-u-md-1-2" style="padding: 10px;">
+                    <h4 style="margin-bottom: 0;">{{ T "rav"}} Luciano Caro</h4>
+                    <lite-youtube lang="{{ .Language.Lang }}" videoid="NfB27X8RUyc"
+                        style="background-image: url('http://i3.ytimg.com/vi/NfB27X8RUyc/hqdefault.jpg');">
+                    </lite-youtube>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{end}}
+
+{{define "postfooter" }}
+<script src="/js/lite-yt-embed.js"></script>
+{{ end }}
+
+{{define "customcss" }}
+<link href="/css/lite-yt-embed.css" rel="stylesheet">
+{{ end }}

@@ -31,7 +31,8 @@ Stefano Furin
 ## Foto
 Marco Caselli Nirmal
 ## Musiche
-Enrico Fink
+**Registrazioni** Enrico Fink
+**Musicisti** Enrico Fink, Arlo Bigazzi, Frank London, Gabriele Coen, Stefano Saletti, Giuseppe de Trizio, Roni Beraha, Matteo Scarpettini, Giovanni Cifariello, Massimiliano Dragoni, Francis Biggi, Avery Gosfield, Marco Ferrari
 ## Video “Ferrara ebraica”
 **Regia** Ruggero Gabbai
 **Montaggio** Cristian Dondi e Chiara Passoni
