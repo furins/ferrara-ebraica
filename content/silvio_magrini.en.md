@@ -23,6 +23,6 @@ and the history of the Jews of Ferrara by Silvio Magrini was brought back to lif
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/magrini.jpg" >}}
+{{< img src="/img/magrini.jpg" title="SILVIO MAGRINI. (Ferrara, January 8, 1881 – Auschwitz, November 16,. 1943 ca.). HISTORY OF THE JEWS OF. FERRARA, from the origins to 1943. Cardboard, typewritten paper. Owned by Andrea Pesaro.">}}
 {{</column>}}
 {{</row>}}

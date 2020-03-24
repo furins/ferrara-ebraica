@@ -19,12 +19,12 @@ Often the rimmonim are topped with bells that jingle as the *Torah* moves, thus 
 {{% /p %}}
 {{</column1>}}
 {{<column3>}}
-{{< img src="/img/rimmonim1.jpg" >}}
+{{< img src="/img/rimmonim1.jpg" title="RIMMONIM. TORAH FINIALS. Northern Italy, 18th century. Silver repoussé, engraved. From Cento. JEWISH COMMUNITY OF FERRARA.">}}
 {{</column3>}}
 {{<column3>}}
-{{< img src="/img/rimmonim2.jpg" >}}
+{{< img src="/img/rimmonim2.jpg" title="RIMMONIM. TORAH FINIALS. Northern Italy, 19th century. Silver repoussé, engraved. From Cento. JEWISH COMMUNITY OF FERRARA.">}}
 {{</column3>}}
 {{<column3>}}
-{{< img src="/img/rimmonim3.jpg" >}}
+{{< img src="/img/rimmonim3.jpg" title="RIMMONIM. TORAH FINIALS. Northern Italy, 18th century. Silver repoussé, engraved and partly gilt. From Cento. JEWISH COMMUNITY OF FERRARA.">}}
 {{</column3>}}
 {{</row>}}

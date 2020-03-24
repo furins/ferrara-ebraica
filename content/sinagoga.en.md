@@ -7,8 +7,8 @@ prev: interstiziale1
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/aron.jpg" >}}
-{{< img src="/img/corona.jpg" >}}
+{{< img src="/img/aron.jpg" title="ARON HA-QODESH. HOLY ARK. Cento, 19th century. Wood, painted. JEWISH COMMUNITY OF FERRARA.">}}
+{{< img src="/img/corona.jpg" title="CROWN OF THE HOLY ARK OF THE ITALIAN SYNAGOGUE. Ferrara, 18th century. Wood, painted and gilt. JEWISH COMMUNITY OF FERRARA.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}The synagogue, *bet ha-knesset*, is the place where Jews come together to pray and study the Torah. In fact, to be defined as such, a Jewish place of worship must hold at least one Sefer Torah (the “Book” of the Law).
@@ -41,6 +41,6 @@ two, the *etzei chayyim* or the trees of life, and is wound inward on each one t
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/bibbia.jpg" >}}
+{{< img src="/img/bibbia.jpg" title="SEFER TORAH. TORAH SCROLL. Italy, 17th century (?). Parchment, manuscript. JEWISH COMMUNITY OF FERRARA.">}}
 {{</column>}}
 {{</row>}}

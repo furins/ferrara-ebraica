@@ -7,7 +7,7 @@ prev: introduzione
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/storia1.jpg" title="Ferrara's ghetto" >}}
+{{< img src="/img/storia1.jpg" title="Model of the ghetto of Ferrara. 2013." >}}
 {{</column>}}
 {{<column>}}
 {{% p %}}The earliest reports we have of a Jewish settlement in **Ferrara** date to the 12th century. A larger community emerged only later in the early 13th century,

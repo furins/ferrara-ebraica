@@ -7,7 +7,7 @@ prev: introduzione
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/storia1.jpg" title="Il ghetto di Ferrara" >}}
+{{< img src="/img/storia1.jpg" title="Modello del ghetto di Ferrara. 2013." >}}
 {{</column>}}
 {{<column>}}
 {{% p %}}

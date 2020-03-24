@@ -18,6 +18,6 @@ communities, the Jews were often actively engaged in the textile trade.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/manti.jpg" >}}
+{{< img src="/img/manti.jpg" title="MEIL. TORAH MANTLE. Italy, 18th century ca.. Silk. JEWISH COMMUNITY OF FERRARA.">}}
 {{</column>}}
 {{</row>}}

@@ -20,9 +20,9 @@ encyclopedic work, thus enabling scholars to reconstruct Italian rabbinical prod
 {{% /p %}}
 {{</column1>}}
 {{<column>}}
-{{< img src="/img/timore_di_isacco.jpg" >}}
+{{< img src="/img/timore_di_isacco.jpg" title="ISACCO LAMPRONTI (Ferrara, February 3, 1679 – November 16, 1756). PACHAD ITZCHAQ - THE FEAR OF ISAAC. Venezia, Isacco Foa, vol I 1750. Paper. JEWISH COMMUNITY OF FERRARA." >}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/timore_di_isacco_2.jpg" >}}
+{{< img src="/img/timore_di_isacco_2.jpg" title="ISACCO LAMPRONTI (Ferrara, February 3, 1679 – November 16, 1756). PACHAD ITZCHAQ - THE FEAR OF ISAAC. Venezia, Isacco Foa, vol II 1753. Paper. JEWISH COMMUNITY OF FERRARA." >}}
 {{</column>}}
 {{</row>}}

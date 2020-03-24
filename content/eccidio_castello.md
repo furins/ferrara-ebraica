@@ -21,6 +21,6 @@ All’alba del 15 novembre, davanti al muretto del Castello Estense vengono fuci
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/eccidio.png" >}}
+{{< img src="/img/eccidio.png" title="MARIO CAPUZZO. (Badia Polesine (RO) 2 giugno 1902 - Pontemaodino. (FE), 10 aprile 1978). L’ECCIDIO DEL CASTELLO ESTENSE. Disegni e tempere. Dono di Sonia Longhi." >}}
 {{</column>}}
 {{</row>}}

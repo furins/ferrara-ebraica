@@ -7,8 +7,8 @@ prev: interstiziale1
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/aron.jpg" >}}
-{{< img src="/img/corona.jpg" >}}
+{{< img src="/img/aron.jpg" title="ARON HA-QODESH. ARMADIO SACRO. Cento, sec. XIX. Legno dipinto. COMUNITÀ EBRAICA DI FERRARA.">}}
+{{< img src="/img/corona.jpg" title="CORONA DELL’ARON HA-QODESH DELLA SINAGOGA ITALIANA. Ferrara, sec. XVIII. Legno dipinto e dorato. COMUNITÀ EBRAICA DI FERRARA">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}La sinagoga, *bet ha-knesset*, è il luogo in cui gli ebrei si riuniscono per la preghiera e per lo studio della Torah. Un luogo di culto ebraico infatti, per poter
@@ -39,6 +39,6 @@ verso il centro, utilizzando due manici, chiamati *etzei chayyim*, (alberi della
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/bibbia.jpg" >}}
+{{< img src="/img/bibbia.jpg" title="SEFER TORAH. ROTOLO DELLA TORAH. Italia, sec. XVII (?). Manoscritto su pergamena. COMUNITÀ EBRAICA DI FERRARA" >}}
 {{</column>}}
 {{</row>}}

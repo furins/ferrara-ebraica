@@ -7,7 +7,7 @@ prev: interstiziale2
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/tabelle_decorative.jpg" >}}
+{{< img src="/img/tabelle_decorative.jpg" title="Sopra: TABELLE DECORATIVE DELLA SUKKAH. Ferrara, sec. XIX (?). Cartone. COMUNITÀ EBRAICA DI FERRARA. Sotto: HAGGADAH. Bilingue italiano-ebraico, Trieste, 1863. Carta. Dono Silvana Minerbi Calabresi, COMUNITÀ EBRAICA DI FERRARA.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
@@ -31,6 +31,6 @@ alla comunità si ritrovano per mangiare assieme sotto una sola capanna.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/libri_preghiere.jpg" >}}
+{{< img src="/img/libri_preghiere.jpg" title="Sinistra: LIBRO DI PREGHIERA. Italia, 1714. Carta, cuoio e argento. Destra: LIBRO DI PREGHIERA. Italia, 1736. Carta, velluto con decorazioni dorate. Dono di Silvana Minerbi Calabresi, COMUNITÀ EBRAICA DI FERRARA." >}}
 {{</column>}}
 {{</row>}}

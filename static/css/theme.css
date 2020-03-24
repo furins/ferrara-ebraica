@@ -288,7 +288,7 @@ a.pure-button-primary {
 .contenuto {
     /* These styles are required for the "scroll-over" effect */
     width: 100%;
-    min-height: 12%;
+    min-height: calc( 100vh - 8.7em);
 }
 
 .contenuto p a, .contenuto p a:hover, .contenuto p a:active, .contenuto p a:visited {
@@ -497,6 +497,10 @@ lite-youtube {
 
 .approfondimento figure {
     margin: 0;
+}
+
+.approfondimento .didascalia {
+    color: #0b311f;
 }
 
 /*

@@ -20,9 +20,9 @@ nell’opera enciclopedica, permettendo così agli studiosi di ricostruire la pr
 {{% /p %}}
 {{</column1>}}
 {{<column>}}
-{{< img src="/img/timore_di_isacco.jpg" >}}
+{{< img src="/img/timore_di_isacco.jpg" title="ISACCO LAMPRONTI (Ferrara, 3 febbraio 1679 – 16 novembre 1756). PACHAD ITZCHAQ - IL TIMORE DI ISACCO. Venezia, Isacco Foa, vol I 1750. Carta. COMUNITÀ EBRAICA DI FERRARA.">}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/timore_di_isacco_2.jpg" >}}
+{{< img src="/img/timore_di_isacco_2.jpg" title="ISACCO LAMPRONTI (Ferrara, 3 febbraio 1679 – 16 novembre 1756). PACHAD ITZCHAQ - IL TIMORE DI ISACCO. Venezia, Isacco Foa, vol II 1753. Carta. COMUNITÀ EBRAICA DI FERRARA." >}}
 {{</column>}}
 {{</row>}}

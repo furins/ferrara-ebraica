@@ -7,7 +7,7 @@ prev: interstiziale2
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/tabelle_decorative.jpg" >}}
+{{< img src="/img/tabelle_decorative.jpg" title="Above: SUKKAH DECORATIONS. Ferrara, 19th century (?). Cardboard. JEWISH COMMUNITY OF FERRARA. Below: HAGGADAH. Bilingual Italian-Hebrew, Trieste, 1863. Paper. Donated by Silvana Minerbi Calabresi, JEWISH COMMUNITY OF FERRARA." >}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
@@ -29,6 +29,6 @@ Egypt. According to tradition, during *Sukkot*, meals are consumed in a tent und
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/libri_preghiere.jpg" >}}
+{{< img src="/img/libri_preghiere.jpg" title="Left: PRAYER BOOK. Italy, 1714. Paper, leather and silver. Right: PRAYER BOOK. Italy, 1736. Paper, velvet with golden decorations. Donated by Silvana Minerbi Calabresi, JEWISH COMMUNITY OF FERRARA." >}}
 {{</column>}}
 {{</row>}}

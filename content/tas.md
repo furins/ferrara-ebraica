@@ -17,9 +17,9 @@ un’iscrizione che indica in quale occasione debba essere fatta la lettura del 
 {{% /p %}}
 {{</column1>}}
 {{<column>}}
-{{< img src="/img/piastra.jpg" >}}
+{{< img src="/img/piastra.jpg" title="TAS. PIASTRA. Italia settentrionale, sec. XVIII ca.. Argento sbalzato, inciso. Da Cento. COMUNITÀ EBRAICA DI FERRARA.">}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/piastra2.jpg" >}}
+{{< img src="/img/piastra2.jpg" title="TAS. PIASTRA. Italia settentrionale, sec. XVIII ca.. Argento sbalzato, inciso. Da Cento. COMUNITÀ EBRAICA DI FERRARA.">}}
 {{</column>}}
 {{</row>}}

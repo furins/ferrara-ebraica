@@ -7,7 +7,7 @@ prev: sinagoga
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/shofar.jpg" >}}
+{{< img src="/img/shofar.jpg" title="SHOFAR. Sec. XX. Corno. Proprietà Rav Luciano Caro.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}Nella società ebraica ferrarese il centro della vita comunitaria è la sinagoga, luogo dove si tengono le funzioni religiose, ma anche spazio di ritrovo.
@@ -35,6 +35,6 @@ proteggere i suoi famigliari viene schiaffeggiato dai fascisti.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/talled.jpg" >}}
+{{< img src="/img/talled.jpg" title="Scialle di preghiera. XX sec. Seta con ricami. Dono di Bruna Leoni Herzfeld." >}}
 {{</column>}}
 {{</row>}}

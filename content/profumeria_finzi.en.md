@@ -24,6 +24,6 @@ for shopping until it was finally closed.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/finzi2.jpg" class="altezza-massima" >}}
+{{< img src="/img/finzi2.jpg" class="altezza-massima" title="On the back: SIGN FROM FINZI’S PERFUMERY. Ferrara, 20th century. Iron. Donated by Cesare Moisè and Manlio Finzi." >}}
 {{</column>}}
 {{</row>}}

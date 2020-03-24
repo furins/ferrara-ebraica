@@ -24,6 +24,6 @@ acquisti in città, fino alla sua definitiva chiusura.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/finzi2.jpg" class="altezza-massima" >}}
+{{< img src="/img/finzi2.jpg" class="altezza-massima" title="Sullo sfondo: INSEGNA DELLA PROFUMERIA FINZI. Ferrara, XX sec.. Ferro. Dono di Cesare Moisè e Manlio Finzi.">}}
 {{</column>}}
 {{</row>}}

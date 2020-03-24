@@ -22,6 +22,6 @@ stampe e la storia degli ebrei di Ferrara di Silvio Magrini è tornata a vivere.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/magrini.jpg" >}}
+{{< img src="/img/magrini.jpg" title="SILVIO MAGRINI. (Ferrara, 8 gennaio 1881 – Auschwitz, 16 novembre. 1943 ca.). STORIA DEGLI EBREI DI FERRARA,. dalle origini al 1943. Cartelle in cartone, con fogli dattiloscritti in carta. Proprietà di Andrea Pesaro.">}}
 {{</column>}}
 {{</row>}}

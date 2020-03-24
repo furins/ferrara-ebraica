@@ -7,7 +7,7 @@ prev: sinagoga
 ---
 {{<row>}}
 {{<column>}}
-{{< img src="/img/shofar.jpg" >}}
+{{< img src="/img/shofar.jpg" title="SHOFAR. 20th century. Horn. Owned by Rav Luciano Caro.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}In the Jewish society of Ferrara, the fulcrum of community life is the synagogue, the place where religious services are held, but also a place to meet.
@@ -39,6 +39,6 @@ the Synagogues and protect his family, was slapped around by the fascists.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/talled.jpg" >}}
+{{< img src="/img/talled.jpg"  title="Prayer shawl. 20th century. Embroidered silk. Donated by Bruna Leoni Herzfeld." >}}
 {{</column>}}
 {{</row>}}

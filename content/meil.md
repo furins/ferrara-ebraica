@@ -18,6 +18,6 @@ attività commerciali degli ebrei, che in numerose comunità erano attivi nel se
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/manti.jpg" >}}
+{{< img src="/img/manti.jpg" title="MEIL. MANTO. Italia, sec. XVIII ca.. Seta. COMUNITÀ EBRAICA DI FERRARA.">}}
 {{</column>}}
 {{</row>}}
