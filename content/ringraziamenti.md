@@ -7,10 +7,10 @@ prev: ""
 {{< logo >}}
 
 {{< centrato >}}
-organizzata e allestita 
-
-dal MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH 
-
+organizzata e allestita dal
+<br>
+<span style="font-size: 140%; font-weight: bold;">MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH </span>
+<br>
 dal 13/11/2019 al 01/03/2020
 {{< /centrato >}}
 {{< spacer >}}
@@ -39,10 +39,10 @@ e direzione lavori
 {{</row>}}
 {{< spacer >}}
 {{< centrato >}}
-La realizzazione è stata resa possibile grazie alla collaborazione del **Comune di Ferrara**  e della **Comunità Ebraica di Ferrara**, che ha prestato al MEIS gran parte degli oggetti esposti e qui presentati. La mostra è stata sostenuta da **Holding Ferrara servizi**, con il patrocinio della **Regione Emilia-Romagna** e dell’**Unione delle Comunità Ebraiche Italiane**. 
-
-
-Il MEIS ringrazia  in particolare il Sindaco **Alan Fabbri**, l’Assessore alla Cultura, Musei, Monumenti Storici e Civiltà Ferrarese, Unesco **Marco Gulinelli**, l’Assessore al Bilancio e Contabilità, Partecipazioni, Commercio e Turismo **Matteo Fornasini**, la Professoressa **Anna Quarzi**, Presidente dell'Istituto di Storia Contemporanea di Ferrara, ed è particolarmente grato  al Presidente della Comunità Ebraica di Ferrara **Fortunato Arbib** ed al Rabbino Capo **Luciano Meir Caro**.
+La realizzazione è stata resa possibile grazie alla collaborazione del <b>Comune di Ferrara</b>  e della <b>Comunità Ebraica di Ferrara</b> che ha prestato al MEIS gran parte degli oggetti esposti e qui presentati. La mostra è stata sostenuta da <b>Holding Ferrara servizi</b> con il patrocinio della <b>Regione Emilia-Romagna</b> e dell’<b>Unione delle Comunità Ebraiche Italiane</b>. 
+<br>
+<br>
+Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore alla Cultura, Musei, Monumenti Storici e Civiltà Ferrarese, Unesco <b>Marco Gulinelli</b> l’Assessore al Bilancio e Contabilità, Partecipazioni, Commercio e Turismo <b>Matteo Fornasini</b> la Professoressa <b>Anna Quarzi</b> Presidente dell'Istituto di Storia Contemporanea di Ferrara, ed è particolarmente grato  al Presidente della Comunità Ebraica di Ferrara <b>Fortunato Arbib</b> ed al Rabbino Capo <b>Luciano Meir Caro</b>.
 {{< /centrato >}}
 
 {{< spacer >}}
