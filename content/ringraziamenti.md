@@ -1,90 +1,123 @@
 ---
-title: Credits
+title: ""
 permalink: credits
 ordine: 4
 prev: ""
 ---
-##### La realizzazione è stata resa possibile grazie alla collaborazione del COMUNE DI FERRARA  e della COMUNITÀ  EBRAICA DI FERRARA, che ha prestato al MEIS gran parte degli oggetti esposti e qui presentati. La mostra è stata sostenuta da HOLDING FERRARA SERVIZI, con il patrocinio della Regione Emilia-Romagna e dell’Unione delle Comunità Ebraiche Italiane. 
+{{< logo >}}
 
-##### Il MEIS ringrazia  in particolare il Sindaco Alan Fabbri, l’Assessore alla Cultura, Musei, Monumenti Storici e Civiltà Ferrarese, Unesco Marco Gulinelli e l’Assessore al Bilancio e Contabilità, Partecipazioni, Commercio e Turismo Matteo Fornasini, ed  è particolarmente grato  al Presidente della Comunità Ebraica di Ferrara Fortunato Arbib ed al Rabbino Capo Luciano Meir Caro.
+{{< centrato >}}
+organizzata e allestita 
 
-# Organizzata dal
-Museo Nazionale dell’Ebraismo Italiano e della Shoah
-National Museum of Italian Judaism and the Shoah
-## Direzione
-Simonetta Della Seta
-## A cura di
-Sharon Reichel
-## Progettazione allestimento e direzione lavori
-Giulia Gallerani
-## Coordinamento sicurezza
-Elisabetta Mancini
-## Comunicazione
-Rachel Silvera
-## Segreteria amministrativa
-Nicola Novelli
-## Segreteria organizzativa
-Alessandra Roncarati
-Donatella Buonfrate
-## Grafica e web
-Stefano Furin
+dal MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH 
+
+dal 13/11/2019 al 01/03/2020
+{{< /centrato >}}
+{{< spacer >}}
+
+{{<row>}}
+{{<column3 classe="is-center">}}
+
+{{<ruolo>}}Direzione{{</ruolo>}}
+{{<persona>}}Simonetta Della Seta{{</persona>}}
+
+{{</column3>}}
+{{<column3 classe="is-center">}}
+
+{{<ruolo>}}Curatela{{</ruolo>}}
+{{<persona>}}Sharon Reichel{{</persona>}}
+{{</column3>}}
+{{<column3 classe="is-center">}}
+
+{{<ruolo>}}
+Progettazione allestimento 
+e direzione lavori
+{{</ruolo>}}
+{{<persona>}}Giulia Gallerani{{</persona>}}
+
+{{</column3>}}
+{{</row>}}
+{{< spacer >}}
+{{< centrato >}}
+La realizzazione è stata resa possibile grazie alla collaborazione del **Comune di Ferrara**  e della **Comunità Ebraica di Ferrara**, che ha prestato al MEIS gran parte degli oggetti esposti e qui presentati. La mostra è stata sostenuta da **Holding Ferrara servizi**, con il patrocinio della **Regione Emilia-Romagna** e dell’**Unione delle Comunità Ebraiche Italiane**. 
+
+
+Il MEIS ringrazia  in particolare il Sindaco **Alan Fabbri**, l’Assessore alla Cultura, Musei, Monumenti Storici e Civiltà Ferrarese, Unesco **Marco Gulinelli**, l’Assessore al Bilancio e Contabilità, Partecipazioni, Commercio e Turismo **Matteo Fornasini**, la Professoressa **Anna Quarzi**, Presidente dell'Istituto di Storia Contemporanea di Ferrara, ed è particolarmente grato  al Presidente della Comunità Ebraica di Ferrara **Fortunato Arbib** ed al Rabbino Capo **Luciano Meir Caro**.
+{{< /centrato >}}
+
+{{< spacer >}}
+{{<ruolo>}}Coordinamento sicurezza{{</ruolo>}}
+{{<persona>}}Elisabetta Mancini{{</persona>}}
+{{<ruolo>}}Comunicazione{{</ruolo>}}
+{{<persona>}}Rachel Silvera{{</persona>}}
+{{<ruolo>}}Segreteria amministrativa{{</ruolo>}}
+{{<persona>}}Nicola Novelli{{</persona>}}
+{{<ruolo>}}Segreteria organizzativa{{</ruolo>}}
+{{<persona>}}Alessandra Roncarati{{</persona>}}
+{{<persona>}}Donatella Buonfrate{{</persona>}}
+{{<ruolo>}}Grafica e web{{</ruolo>}}
+{{<persona>}}Stefano Furin{{</persona>}}
+{{< spacer >}}
 ## Foto
-Marco Caselli Nirmal
+{{<persona>}}Marco Caselli Nirmal{{</persona>}}
+{{< spacer >}}
 ## Musiche
-**Registrazioni** Enrico Fink
-**Musicisti** Enrico Fink, Arlo Bigazzi, Frank London, Gabriele Coen, Stefano Saletti, Giuseppe de Trizio, Roni Beraha, Matteo Scarpettini, Giovanni Cifariello, Massimiliano Dragoni, Francis Biggi, Avery Gosfield, Marco Ferrari
+{{<persona attivita="Registrazioni">}} Enrico Fink{{</persona>}}
+{{<persona attivita="Musicisti">}}Enrico Fink, Arlo Bigazzi, Frank London, Gabriele Coen, Stefano Saletti, Giuseppe de Trizio, Roni Beraha, Matteo Scarpettini, Giovanni Cifariello, Massimiliano Dragoni, Francis Biggi, Avery Gosfield, Marco Ferrari{{</persona>}}
+{{< spacer >}}
 ## Video “Ferrara ebraica”
-**Regia** Ruggero Gabbai
-**Montaggio** Cristian Dondi e Chiara Passoni
-**Riprese** Giuseppe Scarfone e Ludovico Tesoro - Tess
-**Produzione** Forma International
+{{<persona attivita="Regia">}}Ruggero Gabbai{{</persona>}}
+{{<persona attivita="Montaggio">}}Cristian Dondi e Chiara Passoni{{</persona>}}
+{{<persona attivita="Riprese">}}Giuseppe Scarfone e Ludovico Tesoro - Tess{{</persona>}}
+{{<persona attivita="Produzione">}}Forma International{{</persona>}}
 
 *il video è stato realizzato in collaborazione con Istituto di Storia Contemporanea di Ferrara con un contributo della Regione Emilia Romagna, legge Memoria del Novecento*
-
+{{< spacer >}}
 ## Ritratti filmati
-**Regia** Ruggero Gabbai
-**Montaggio** Mattia Schaumann
-**Produzione**  Forma International
-## Traduzioni 
-Eileen Cartoon
+{{<persona attivita="Regia">}}Ruggero Gabbai{{</persona>}}
+{{<persona attivita="Montaggio">}}Mattia Schaumann{{</persona>}}
+{{<persona attivita="Produzione">}}Forma International{{</persona>}}
+{{< spacer >}}
 
-## Assicurazioni 
-Generali Italia S.p.A.
-## Realizzazione e Forniture 
-Digital Neon S.r.l.
-Oesse Solutions
-Cavallari Giancarlo & Roberto S.n.c.
-Malinpensa Giuliano S.n.c.
-CSI Impianti
+{{<ruolo>}}Traduzioni {{</ruolo>}}
+{{<persona>}}Eileen Cartoon{{</persona>}}
 
-# MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH
-## Presidente 
-Dario Disegni
-## Consiglio di Amministrazione
-Gloria Arbib
-Massimo Mezzetti
-Giovanni Franco Pernisa
-Daniele Ravenna
-## Collegio Sindacale
-Fabio Giuliani, **Presidente** 
-Francesco Badia
-Riccardo Bauer
-## Direttore
-Simonetta Della Seta
+{{<ruolo>}}Assicurazioni {{</ruolo>}}
+{{<persona>}}Generali Italia S.p.A.{{</persona>}}
+{{<ruolo>}}Realizzazione e Forniture {{</ruolo>}}
+{{<persona>}}Digital Neon S.r.l.{{</persona>}}
+{{<persona>}}Oesse Solutions{{</persona>}}
+{{<persona>}}Cavallari Giancarlo & Roberto S.n.c.{{</persona>}}
+{{<persona>}}Malinpensa Giuliano S.n.c.{{</persona>}}
+{{<persona>}}CSI Impianti{{</persona>}}
+{{< spacer >}}
+## MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH
+{{<ruolo>}}Presidente {{</ruolo>}}
+{{<persona>}}Dario Disegni{{</persona>}}
+{{<ruolo>}}Consiglio di Amministrazione{{</ruolo>}}
+{{<persona>}}Gloria Arbib{{</persona>}}
+{{<persona>}}Massimo Mezzetti{{</persona>}}
+{{<persona>}}Giovanni Franco Pernisa{{</persona>}}
+{{<persona>}}Daniele Ravenna{{</persona>}}
+{{<ruolo>}}Collegio Sindacale{{</ruolo>}}
+{{<persona>}}Fabio Giuliani, Presidente{{</persona>}}
+{{<persona>}}Francesco Badia{{</persona>}}
+{{<persona>}}Riccardo Bauer{{</persona>}}
+{{<ruolo>}}Direttore{{</ruolo>}}
+{{<persona>}}Simonetta Della Seta{{</persona>}}
+{{< spacer >}}
+{{<ruolo>}}Biglietteria, informazioni e prenotazioni{{</ruolo>}}
+{{<persona>}}CoopCulture{{</persona>}}
+{{<ruolo>}}Sicurezza{{</ruolo>}}
+{{<persona>}}Sicuritalia S.p.A.{{</persona>}}
+{{<ruolo>}}Biblioteca{{</ruolo>}}
+{{<persona>}}Le Pagine{{</persona>}}
 
-## Biglietteria, informazioni e prenotazioni
-CoopCulture
-## Sicurezza
-Sicuritalia S.p.A.
-## Biblioteca
-Le Pagine
-
-## Con la collaborazione di
-
-Comune di Ferrara
-Comunità Ebraica di Ferrara
-## Con il sostegno di
-Holding Ferrara Servizi
-## Con il patrocinio di
-Regione Emilia-Romagna
-UCEI
+{{<ruolo>}}Con la collaborazione di{{</ruolo>}}
+{{<persona>}}Comune di Ferrara{{</persona>}}
+{{<persona>}}Comunità Ebraica di Ferrara{{</persona>}}
+{{<ruolo>}}Con il sostegno di{{</ruolo>}}
+{{<persona>}}Holding Ferrara Servizi{{</persona>}}
+{{<ruolo>}}Con il patrocinio di{{</ruolo>}}
+{{<persona>}}Regione Emilia-Romagna{{</persona>}}
+{{<persona>}}UCEI{{</persona>}}

@@ -59,6 +59,30 @@ h1, h2, h3, h4, h5, h6, label {
     text-align: center;
 }
 
+.ruolo {
+    font-style: italic;
+    font-size: 90%;
+    margin-top: 1em;
+    color:rgba(180, 241, 212, 0.94);
+}
+
+.persona {
+    font-weight: bold;
+    color: white;
+}
+.attivita {
+    font-style: italic;
+    font-weight: normal;
+    min-width: 12ex;
+    display: inline-block;
+    color:rgba(180, 241, 212, 0.94);
+}
+
+.spacer {
+    display: block;
+    margin-bottom: 5em;
+}
+
 /*
  * -- PURE FORM STYLES --
  * Style the form inputs and labels
@@ -296,6 +320,17 @@ a.pure-button-primary {
     text-decoration: underline;
 }
 
+.filter-white{
+    filter: brightness(0) saturate(100%) invert(100%);
+}
+
+.logo-credits {
+    max-height: 75vh;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 2em;
+}
+
 .icone {
     padding-top: 1em;
 }
@@ -510,6 +545,9 @@ lite-youtube {
  */
 
 @media (min-width: 48em) {
+    .logo-credits {
+        max-height: 40vh;
+    }
     .icona img {
         width: 50%;
     }
