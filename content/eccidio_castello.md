@@ -5,6 +5,7 @@ ordine: 9
 next: silvio_magrini
 prev: profumeria_finzi
 ---
+# Eccidio del Castello
 {{<row>}}
 {{<column>}}
 {{% p %}}
@@ -21,6 +22,6 @@ All’alba del 15 novembre, davanti al muretto del Castello Estense vengono fuci
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/eccidio.png" title="MARIO CAPUZZO. (Badia Polesine (RO) 2 giugno 1902 - Pontemaodino. (FE), 10 aprile 1978). L’ECCIDIO DEL CASTELLO ESTENSE. Disegni e tempere. Dono di Sonia Longhi." >}}
+{{< img src="/img/eccidio.png" title="Mario Capuzzo. (Badia Polesine (RO) 2 giugno 1902 - Pontemaodino. (FE), 10 aprile 1978). L’eccidio del Castello Estense. Disegni e tempere. Dono di Sonia Longhi." >}}
 {{</column>}}
 {{</row>}}

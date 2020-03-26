@@ -1,1 +1,13 @@
 <div class="footer l-box is-center">Copyright 2020 MEIS - <a href="{{ .Site.Params.credits }}">Credits</a></div>
+<script>
+    // Immediately invoked function to set the theme on initial load
+    (function () {
+        if (localStorage.getItem('theme') === 'theme-dark') {
+            document.getElementById('switch').removeAttribute('checked');
+            console.log("dark mode");
+        } else {
+            document.getElementById('switch').setAttribute('checked', "checked");
+            console.log("light mode");
+        }
+    })();
+</script>

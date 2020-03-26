@@ -1,10 +1,11 @@
 ---
-title: Cerimonial objects
+title: Ceremonial objects
 permalink: oggetti_cerimoniali_2
 ordine: 5
-next: tas
-prev: oggetti_cerimoniali
+next: rimmonim
+prev: rito
 ---
+# Ceremonial objects
 Jewish religious life revolves around two important elements: **public** and **private** ritual.
 
 The centrality of prayer and the *Sefer Torah* led to the manufacture of ceremonial objects, items used in public rituals, which visually underscored their value.
@@ -32,6 +33,6 @@ The Jewish year is written in Hebrew letters, each of which has a numerical valu
 often dots.{{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/corone.jpg" title="KETER. CROWN. Northern Italy, early 19th century. Silver repoussé, chiseled, engraved and partly gilt. From Cento. JEWISH COMMUNITY OF FERRARA.">}}
+{{< img src="/img/corone.jpg" title="KETER. CROWN. Northern Italy, early 19th century. Silver repoussé, chiseled, engraved and partly gilt. From Cento. Jewish Community of Ferrara.">}}
 {{</column>}}
 {{</row>}}

@@ -5,6 +5,7 @@ ordine: 5
 next: timore_isacco
 prev: tas
 ---
+# Oggetti cerimoniali
 {{<row class="approfondimento">}}
 {{< approfondimento >}}
 {{<column>}}
@@ -18,6 +19,6 @@ attività commerciali degli ebrei, che in numerose comunità erano attivi nel se
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/manti.jpg" title="MEIL. MANTO. Italia, sec. XVIII ca.. Seta. COMUNITÀ EBRAICA DI FERRARA.">}}
+{{< img src="/img/manti.jpg" title="MEIL. MANTO. Italia, sec. XVIII ca.. Seta. Comunità ebraica di Ferrara.">}}
 {{</column>}}
 {{</row>}}

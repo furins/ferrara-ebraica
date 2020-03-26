@@ -3,8 +3,9 @@ title: Traditional songs
 next: "/"
 prev: "/"
 ---
+# Traditional songs
 
-The music broadcast in this room is a collection based on traditional melodies for the wedding ceremony in the Jewish Community of Ferrara. All elaborations and recordings by Enrico Fink.
+The music in this web page offer an insight of the music of the Jewish tradition of Ferrara accompanying the wedding ceremony. All elaborations and recordings by Enrico Fink.
 
 ## *Baruch abba* (Psalms, 118:26-29)
 Traditional melody from Ferrara. This is the hymn traditionally sung as the couple approaches the chuppah.

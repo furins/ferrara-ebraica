@@ -1,10 +1,15 @@
 <nav class="header">
     <div class="home-menu pure-menu pure-menu-horizontal">
         <a class="pure-menu-heading" href="/">
-            <img src="/img/logo-meis.svg" alt="MEIS" class="logo-meis"></a>
+            <img src="/img/logo-meis.svg" alt="MEIS" class="logo-meis filter-white"></a>
 
         {{ if .IsTranslated }}
         <ul class="pure-menu-list lingue">
+            <label class="switch switch-green">
+                <input type="checkbox" class="switch-input" checked  onclick="toggleTheme()"  id="switch">
+                <span class="switch-label" data-on="☼" data-off="☾"></span>
+                <span class="switch-handle"></span>
+              </label>
             <li class="pure-menu-item active">{{ .Language.Lang }}</li>
             {{ range .Translations }}
             <li class="pure-menu-item">

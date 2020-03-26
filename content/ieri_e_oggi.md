@@ -5,6 +5,7 @@ ordine: 11
 next: "/"
 prev: silvio_magrini
 ---
+# Ieri e oggi
 {{<row>}}
 {{<column>}}
 {{% p %}}

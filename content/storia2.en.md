@@ -5,6 +5,7 @@ ordine: 2
 next: interstiziale1
 prev: storia1
 ---
+# History
 {{<row>}}
 {{<column>}}
 {{% p %}}In the early years of the twentieth century, the Jewish community of Ferrara comprised more than 1000 people, who were interwoven into the social and

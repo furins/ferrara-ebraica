@@ -5,6 +5,7 @@ ordine: 7
 next: profumeria_finzi
 prev: famiglia
 ---
+# Stories of the City
 {{<row>}}
 {{<column>}}
 {{< img src="/img/castello2.png" >}}

@@ -5,6 +5,7 @@ ordine: 5
 next: timore_isacco
 prev: tas
 ---
+# Ceremonial objects
 {{<row class="approfondimento">}}
 {{< approfondimento >}}
 {{<column>}}
@@ -18,6 +19,6 @@ communities, the Jews were often actively engaged in the textile trade.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/manti.jpg" title="MEIL. TORAH MANTLE. Italy, 18th century ca.. Silk. JEWISH COMMUNITY OF FERRARA.">}}
+{{< img src="/img/manti.jpg" title="MEIL. TORAH MANTLE. Italy, 18th century ca.. Silk. Jewish Community of Ferrara.">}}
 {{</column>}}
 {{</row>}}

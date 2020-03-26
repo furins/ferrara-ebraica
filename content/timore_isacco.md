@@ -5,6 +5,7 @@ ordine: 5
 next: interstiziale2
 prev: rimmonim
 ---
+# Oggetti cerimoniali
 {{<row class="approfondimento">}}
 {{< approfondimento >}}
 {{<column1>}}
@@ -20,9 +21,9 @@ nell’opera enciclopedica, permettendo così agli studiosi di ricostruire la pr
 {{% /p %}}
 {{</column1>}}
 {{<column>}}
-{{< img src="/img/timore_di_isacco.jpg" title="ISACCO LAMPRONTI (Ferrara, 3 febbraio 1679 – 16 novembre 1756). PACHAD ITZCHAQ - IL TIMORE DI ISACCO. Venezia, Isacco Foa, vol I 1750. Carta. COMUNITÀ EBRAICA DI FERRARA.">}}
+{{< img src="/img/timore_di_isacco.jpg" title="ISACCO LAMPRONTI (Ferrara, 3 febbraio 1679 – 16 novembre 1756). PACHAD ITZCHAQ - IL TIMORE DI ISACCO. Venezia, Isacco Foa, vol I 1750. Carta. Comunità ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/timore_di_isacco_2.jpg" title="ISACCO LAMPRONTI (Ferrara, 3 febbraio 1679 – 16 novembre 1756). PACHAD ITZCHAQ - IL TIMORE DI ISACCO. Venezia, Isacco Foa, vol II 1753. Carta. COMUNITÀ EBRAICA DI FERRARA." >}}
+{{< img src="/img/timore_di_isacco_2.jpg" title="ISACCO LAMPRONTI (Ferrara, 3 febbraio 1679 – 16 novembre 1756). PACHAD ITZCHAQ - IL TIMORE DI ISACCO. Venezia, Isacco Foa, vol II 1753. Carta. Comunità ebraica di Ferrara." >}}
 {{</column>}}
 {{</row>}}

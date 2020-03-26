@@ -4,7 +4,7 @@ next: "/"
 prev: "/"
 ---
 
-I brani musicali che ascoltiamo in questa sala sono registrazioni basate sulla musica di tradizione ebraica ferrarese per il rito nuziale, curate ed eseguite da Enrico Fink.
+I brani musicali che possiamo ascoltare in questa pagina propongono un approfondimento sulla musica di tradizione ebraica ferrarese di accompagnamento al rito nuziale, curati ed eseguiti da Enrico Fink.
 
 ## *Baruch abba* (Salmi, 118:26-29)
 Musica tradizionale ferrarese. Questo è l’inno al suono del quale tradizionalmente la coppia di sposi si avvicina alla chuppà.

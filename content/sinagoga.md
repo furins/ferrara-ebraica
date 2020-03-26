@@ -5,13 +5,16 @@ ordine: 3
 next: rito
 prev: interstiziale1
 ---
+
 {{<row>}}
 {{<column>}}
-{{< img src="/img/aron.jpg" title="ARON HA-QODESH. ARMADIO SACRO. Cento, sec. XIX. Legno dipinto. COMUNITÀ EBRAICA DI FERRARA.">}}
-{{< img src="/img/corona.jpg" title="CORONA DELL’ARON HA-QODESH DELLA SINAGOGA ITALIANA. Ferrara, sec. XVIII. Legno dipinto e dorato. COMUNITÀ EBRAICA DI FERRARA">}}
+{{< img src="/img/aron.jpg" title="ARON HA-QODESH. ARMADIO SACRO. Cento, sec. XIX. Legno dipinto. Comunità ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
-{{% p %}}La sinagoga, *bet ha-knesset*, è il luogo in cui gli ebrei si riuniscono per la preghiera e per lo studio della Torah. Un luogo di culto ebraico infatti, per poter
+{{% p %}}
+# Sinagoga
+
+La sinagoga, *bet ha-knesset*, è il luogo in cui gli ebrei si riuniscono per la preghiera e per lo studio della Torah. Un luogo di culto ebraico infatti, per poter
 essere definito tale, deve ospitare al suo interno almeno un *Sefer Torah* (Libro della Legge).
 I Rotoli della Torah sono contenuti nell'Aron *ha-qodesh* (armadio del santo/della santità), che è posto contro il muro della sinagoga, di norma rivolto verso Est,
 in direzione di Gerusalemme.{{% /p %}}
@@ -39,6 +42,7 @@ verso il centro, utilizzando due manici, chiamati *etzei chayyim*, (alberi della
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/bibbia.jpg" title="SEFER TORAH. ROTOLO DELLA TORAH. Italia, sec. XVII (?). Manoscritto su pergamena. COMUNITÀ EBRAICA DI FERRARA" >}}
+{{< img src="/img/bibbia.jpg" title="SEFER TORAH. ROTOLO DELLA TORAH. Italia, sec. XVII (?). Manoscritto su pergamena. Comunità ebraica di Ferrara" >}}
+{{< img src="/img/libri_preghiere.jpg" title="Sinistra: Libro di preghiera. Italia, 1714. Carta, cuoio e argento. Destra: Libro di preghiera. Italia, 1736. Carta, velluto con decorazioni dorate. Dono di Silvana Minerbi Calabresi, Comunità ebraica di Ferrara." >}}
 {{</column>}}
 {{</row>}}

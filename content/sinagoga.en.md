@@ -5,13 +5,16 @@ ordine: 3
 next: rito
 prev: interstiziale1
 ---
+
 {{<row>}}
 {{<column>}}
-{{< img src="/img/aron.jpg" title="ARON HA-QODESH. HOLY ARK. Cento, 19th century. Wood, painted. JEWISH COMMUNITY OF FERRARA.">}}
-{{< img src="/img/corona.jpg" title="CROWN OF THE HOLY ARK OF THE ITALIAN SYNAGOGUE. Ferrara, 18th century. Wood, painted and gilt. JEWISH COMMUNITY OF FERRARA.">}}
+{{< img src="/img/aron.jpg" title="ARON HA-QODESH. HOLY ARK. Cento, 19th century. Wood, painted. Jewish Community of Ferrara.">}}
 {{</column>}}
 {{<column>}}
-{{% p %}}The synagogue, *bet ha-knesset*, is the place where Jews come together to pray and study the Torah. In fact, to be defined as such, a Jewish place of worship must hold at least one Sefer Torah (the “Book” of the Law).
+{{% p %}}
+# Synagogue
+
+The synagogue, *bet ha-knesset*, is the place where Jews come together to pray and study the Torah. In fact, to be defined as such, a Jewish place of worship must hold at least one Sefer Torah (the “Book” of the Law).
 
 The Torah scrolls are contained in the Aron ha-qodesh (the holy ark), generally set against the eastern wall of the synagogue, facing toward Jerusalem.
 
@@ -41,6 +44,7 @@ two, the *etzei chayyim* or the trees of life, and is wound inward on each one t
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/bibbia.jpg" title="SEFER TORAH. TORAH SCROLL. Italy, 17th century (?). Parchment, manuscript. JEWISH COMMUNITY OF FERRARA.">}}
+{{< img src="/img/bibbia.jpg" title="SEFER TORAH. TORAH SCROLL. Italy, 17th century (?). Parchment, manuscript. Jewish Community of Ferrara.">}}
+{{< img src="/img/libri_preghiere.jpg" title="Left: Prayer book. Italy, 1714. Paper, leather and silver. Right: Prayer book. Italy, 1736. Paper, velvet with golden decorations. Donated by Silvana Minerbi Calabresi, Jewish Community of Ferrara." >}}
 {{</column>}}
 {{</row>}}

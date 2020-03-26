@@ -5,6 +5,7 @@ ordine: 2
 next: interstiziale1
 prev: storia1
 ---
+# Storia
 {{<row>}}
 {{<column>}}
 {{% p %}}Nei primi anni del Novecento, la comunità ebraica di Ferrara è composta da oltre 1000 persone, inserite nel tessuto sociale e culturale della città.

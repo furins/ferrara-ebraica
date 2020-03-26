@@ -5,6 +5,7 @@ ordine: 5
 next: meil
 prev: rimmonim
 ---
+# Oggetti cerimoniali
 {{<row class="approfondimento">}}
 {{< approfondimento >}}
 {{<column1>}}
@@ -17,9 +18,9 @@ un’iscrizione che indica in quale occasione debba essere fatta la lettura del 
 {{% /p %}}
 {{</column1>}}
 {{<column>}}
-{{< img src="/img/piastra.jpg" title="TAS. PIASTRA. Italia settentrionale, sec. XVIII ca.. Argento sbalzato, inciso. Da Cento. COMUNITÀ EBRAICA DI FERRARA.">}}
+{{< img src="/img/piastra.jpg" title="TAS. PIASTRA. Italia settentrionale, sec. XVIII ca.. Argento sbalzato, inciso. Da Cento. Comunità ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/piastra2.jpg" title="TAS. PIASTRA. Italia settentrionale, sec. XVIII ca.. Argento sbalzato, inciso. Da Cento. COMUNITÀ EBRAICA DI FERRARA.">}}
+{{< img src="/img/piastra2.jpg" title="TAS. PIASTRA. Italia settentrionale, sec. XVIII ca.. Argento sbalzato, inciso. Da Cento. Comunità ebraica di Ferrara.">}}
 {{</column>}}
 {{</row>}}

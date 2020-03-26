@@ -5,6 +5,7 @@ ordine: 10
 next: ieri_e_oggi
 prev: eccidio_castello
 ---
+# Silvio Magrini
 {{<row>}}
 {{<column>}}
 {{% p %}}

@@ -4,7 +4,7 @@ permalink: credits
 ordine: 4
 prev: ""
 ---
-##### The realization of the exhibition was made possible thanks to the collaboration of the MUNICIPALITY OF FERRARA and the JEWISH COMMUNITY OF FERRARA, which lent to MEIS most of the objects exhibited and presented here. The exhibition was supported by HOLDING FERRARA SERVIZI, with the patronage of the Emilia-Romagna Region and the Union of Italian Jewish Communities.
+##### The realization of the exhibition was made possible thanks to the collaboration of the MUNICIPALITY OF FERRARA and the Jewish Community of Ferrara, which lent to MEIS most of the objects exhibited and presented here. The exhibition was supported by HOLDING FERRARA SERVIZI, with the patronage of the Emilia-Romagna Region and the Union of Italian Jewish Communities.
 
 ##### MEIS thanks in particular the Mayor Alan Fabbri, the Councilor for Culture, Museums, Historical Monuments and Civilization of Ferrara UNESCO Marco Gulinelli and the Councilor for Budget and Accounting, Participations, Trade and Tourism Matteo Fornasini, and it is particularly grateful to the President of the Jewish Community of Ferrara Fortunato Arbib and to the Chief Rabbi Luciano Meir Caro.
 
