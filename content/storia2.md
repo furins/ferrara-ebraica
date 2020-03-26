@@ -27,6 +27,7 @@ loro volta, il furto degli oggetti requisiti.{{% /p %}}
 collezione parte è tutt’ora in uso, parte è esposta in mostra.{{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/via_mazzini.png" >}}
+{{< img src="/img/via_mazzini-dark.png" class="only-light">}}
+{{< img src="/img/via_mazzini.png" class="only-dark">}}
 {{</column>}}
 {{</row>}}

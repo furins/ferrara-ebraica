@@ -11,7 +11,7 @@ other = "Continue your visit"
 other = "Previous page"
 
 [mappa]
-other = "map.png"
+other = "map"
 
 [mappa_desc]
 other="Map of Ferrara and main historical events"

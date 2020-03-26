@@ -3,7 +3,7 @@ title: Storia
 permalink: storia_1
 ordine: 1
 next: storia2
-prev: introduzione
+prev: mappa
 ---
 
 {{<row>}}

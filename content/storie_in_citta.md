@@ -5,13 +5,15 @@ ordine: 7
 next: profumeria_finzi
 prev: famiglia
 ---
-# Storie in città
 {{<row>}}
 {{<column>}}
-{{< img src="/img/castello2.png" >}}
+{{< img src="/img/castello2.png" class="only-dark">}}
+{{< img src="/img/castello2-dark.png" class="only-light">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
+# Storie in città
+
 La Ferrara ebraica si compone di storie conosciute e altre meno note e, come spesso accade, i momenti negativi si alternano a quelli positivi.
 L’area di insediamento storica degli ebrei ferraresi è il triangolo scandito da via Mazzini, via Vignatagliata e via Vittoria. Via Mazzini in particolare ha visto
 fiorire nel tempo una serie di attività e negozi di proprietà di appartenenti alla comunità locale. Sono vivi nei ricordi i sapori delle specialità kasher (adatte alla

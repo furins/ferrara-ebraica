@@ -5,6 +5,7 @@ ordine: 5
 next: rimmonim
 prev: rito
 ---
+# Oggetti cerimoniali
 La vita religiosa ebraica si sviluppa attorno a due importanti poli: quello della **ritualità pubblica** e quello della **ritualità privata**.
 
 La centralità della preghiera e del *Sefer Torah* ha dato origine alla produzione di oggetti cerimoniali di ritualità pubblica che potessero sottolinearne anche

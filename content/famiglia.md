@@ -5,13 +5,14 @@ ordine: 6
 next: storie_in_citta
 prev: interstiziale2
 ---
-# Famiglia
+
 {{<row>}}
 {{<column>}}
 {{< img src="/img/tabelle_decorative.jpg" title="Sopra: TABELLE DECORATIVE DELLA SUKKAH. Ferrara, sec. XIX (?). Cartone. Comunità ebraica di Ferrara. Sotto: HAGGADAH. Bilingue italiano-ebraico, Trieste, 1863. Carta. Dono Silvana Minerbi Calabresi, Comunità ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
+# Famiglia
 Altro nucleo essenziale per la trasmissione dei fondamenti della vita ebraica è la famiglia.
 
 Oltre alle funzioni pubbliche, l’ebraismo prevede una serie di festività legate alla dimensione familiare in cui la ritualità è scandita dalle preghiere e dalla

@@ -1,7 +1,6 @@
 {{ define "main" }}
 <div class="content-wrapper">
-    {{ partial "breadcrumb" . }}
-    <lite-youtube lang="{{ .Language.Lang }}" videoid="{{ .Params.videoid }}"
+    {{ partial "breadcrumb" . }}<lite-youtube lang="{{ .Language.Lang }}" videoid="{{ .Params.videoid }}"
         style="background-image: url('{{.Params.copertina}}');">
     </lite-youtube>
     <div class="content">

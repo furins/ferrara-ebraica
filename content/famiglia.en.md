@@ -5,13 +5,14 @@ ordine: 6
 next: storie_in_citta
 prev: interstiziale2
 ---
-# Family
+
 {{<row>}}
 {{<column>}}
 {{< img src="/img/tabelle_decorative.jpg" title="Above: Sukkah decorations. Ferrara, 19th century (?). Cardboard. Jewish Community of Ferrara. Below: Haggadah. Bilingual Italian-Hebrew, Trieste, 1863. Paper. Donated by Silvana Minerbi Calabresi, Jewish Community of Ferrara." >}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
+# Family
 Another essential center where the foundations of the Jewish life are passed down is the family.
 
 In addition to public functions, Judaism includes a series of family festivals with rituals marked by the family praying and dining together. Among these, two

@@ -11,7 +11,7 @@ other = "Continua la visita"
 other = "Pagina precedente"
 
 [mappa]
-other = "mappa.png"
+other = "mappa"
 
 [mappa_desc]
 other="Mappa di Ferrara e principali eventi"

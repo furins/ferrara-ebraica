@@ -2,41 +2,35 @@
 {{ partial "logo.html" . }}
 <div class="content-wrapper">
     <div class="content">
-        {{ .Content }}
-    </div>
-    <div class="content-center" style="margin: 0 auto;">
-        
-    </div>
-    <div class="pure-g" style="margin-bottom: 3em;">
-        <div class="pure-u-1 pure-u-md-1-8"></div>
-        <div class="pure-u-1 pure-u-md-3-4">
-            <div class="pure-g icone">
-                <a href="{{ "introduzione" | relLangURL }}" class="pure-u-1 pure-u-md-1-3 icona">
-                    <img src="img/visita.svg" width="25%" class="filter-white"/><br>
-                    <span
-                    class="pure-button pure-button-primary">{{ T "visita_la_mostra"}}</span>
-                </a>
-                <a href="{{ "interviste" | relLangURL }}" class="pure-u-1 pure-u-md-1-3 icona">
-                    <img src="img/interviste.svg" width="25%" class="filter-white"/><br>
-                    <span
-                    class="pure-button pure-button-primary">{{ T "guarda_le_interviste"}}</span>
-                </a>
-                <a href="{{ "musica" | relLangURL }}" class="pure-u-1 pure-u-md-1-3 icona">
-                    <img src="img/musica.svg" width="25%" class="filter-white"/><br>
-                    <span
-                    class="pure-button pure-button-primary">{{ T "ascolta_i_brani"}}</span>
-                </a>
-            </div>
+        <div class="con-padding">
+            {{ .Content }}
         </div>
-        <div class="pure-u-1 pure-u-md-1-8"></div>
     </div>
-    
-    {{ end }}
+    <div class="content">
+        <div class="pure-g icone" style="margin-bottom: 3em;">
+            <a href="{{ "introduzione" | relLangURL }}" class="pure-u-1 pure-u-md-1-3 icona">
+                <img src="img/visita.svg" width="25%" class="filter-white" /><br>
+                <span class="pure-button pure-button-primary">{{ T "visita_la_mostra"}}</span>
+            </a>
+            <a href="{{ "interviste" | relLangURL }}" class="pure-u-1 pure-u-md-1-3 icona">
+                <img src="img/interviste.svg" width="25%" class="filter-white" /><br>
+                <span class="pure-button pure-button-primary">{{ T "guarda_le_interviste"}}</span>
+            </a>
+            <a href="{{ "musica" | relLangURL }}" class="pure-u-1 pure-u-md-1-3 icona">
+                <img src="img/musica.svg" width="25%" class="filter-white" /><br>
+                <span class="pure-button pure-button-primary">{{ T "ascolta_i_brani"}}</span>
+            </a>
+        </div>
 
-    {{define "postfooter" }}
-    <script src="/js/lite-yt-embed.js"></script>
-    {{ end }}
+    </div>
+</div>
 
-    {{define "customcss" }}
-    <link href="/css/lite-yt-embed.css" rel="stylesheet">
-    {{ end }}
+{{ end }}
+
+{{define "postfooter" }}
+<script src="/js/lite-yt-embed.js"></script>
+{{ end }}
+
+{{define "customcss" }}
+<link href="/css/lite-yt-embed.css" rel="stylesheet">
+{{ end }}
