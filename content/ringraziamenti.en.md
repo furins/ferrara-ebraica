@@ -59,7 +59,6 @@ from 13/11/2019 to 01/03/2020
 {{<ruolo>}}Design 
 and Works management{{</ruolo>}}
 {{<persona>}}Giulia Gallerani{{</persona>}}
-Giulia Gallerani
 
 {{</column3>}}
 {{</row>}}
@@ -81,7 +80,8 @@ The MEIS thanks in particular the Mayor <b>Alan Fabbri</b>, the Councilor for Cu
 {{<ruolo>}}Organizational Secretariat{{</ruolo>}}
 {{<persona>}}Alessandra Roncarati{{</persona>}}
 {{<persona>}}Donatella Buonfrate{{</persona>}}
-{{<ruolo>}}Website{{</ruolo>}}
+{{< spacer >}}
+## Website
 {{<persona>}}Stefano Furin{{</persona>}}
 {{< spacer >}}
 ## Photography

@@ -83,7 +83,8 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 {{<ruolo>}}Segreteria organizzativa{{</ruolo>}}
 {{<persona>}}Alessandra Roncarati{{</persona>}}
 {{<persona>}}Donatella Buonfrate{{</persona>}}
-{{<ruolo>}}Realizzazione sito web{{</ruolo>}}
+{{< spacer >}}
+## Sito web
 {{<persona>}}Stefano Furin{{</persona>}}
 {{< spacer >}}
 ## Foto

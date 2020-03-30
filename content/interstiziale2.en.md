@@ -7,4 +7,4 @@ prev: timore_isacco
 ---
 {{< img src="/img/sin2.png"  class="only-dark">}}
 {{< img src="/img/sin2-dark.png" class="only-light">}}
-{{<didascalia>}}Aron ha-qodesh, sinagoga spagnola{{</didascalia>}}
+{{<didascalia>}}Aron ha-qodesh, Spanish Synagogue{{</didascalia>}}
