@@ -5,13 +5,16 @@ ordine: 7
 next: profumeria_finzi
 prev: famiglia
 ---
-# Stories of the City
+
 {{<row>}}
 {{<column>}}
-{{< img src="/img/castello2.png" >}}
+{{< img src="/img/castello2.png" class="only-dark">}}
+{{< img src="/img/castello2-dark.png" class="only-light">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
+# Stories of the City
+
 Jewish Ferrara encompasses many stories —some well-known and others less so. As is often the case, bad times alternate with good ones.
 
 Historically, the Jews of Ferrara settled in a triangular area delineated by via Mazzini, via Vignatagliata and via Vittoria. Via Mazzini, in particular, has seen a

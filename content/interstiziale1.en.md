@@ -7,3 +7,4 @@ prev: storia2
 ---
 {{< img src="/img/sin1.png"  class="only-dark">}}
 {{< img src="/img/sin1-dark.png" class="only-light">}}
+{{<didascalia>}}Holy ark, Italian Synagogue{{</didascalia>}}

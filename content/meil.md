@@ -19,6 +19,6 @@ attività commerciali degli ebrei, che in numerose comunità erano attivi nel se
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/manti.jpg" title="MEIL. MANTO. Italia, sec. XVIII ca.. Seta. Comunità ebraica di Ferrara.">}}
+{{< img src="/img/manti.jpg" title="Tre Meillim, manti, Italia, secolo XVIII ca., Comunità Ebraica di Ferrara.">}}
 {{</column>}}
 {{</row>}}

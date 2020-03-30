@@ -8,8 +8,8 @@ prev: mappa
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/storia1.jpg" title="Model of the ghetto of Ferrara. 2013." >}}
-{{< img src="/img/corona.jpg" title="CROWN OF THE HOLY ARK OF THE ITALIAN SYNAGOGUE. Ferrara, 18th century. Wood, painted and gilt. Jewish Community of Ferrara.">}}
+{{< img src="/img/storia1.jpg" title="Model of the ghetto of Ferrara, 2013." >}}
+{{< img src="/img/corona.jpg" title="Crown of the Holy Ark of the Italian Synagogue, Ferrara, 18th century, Jewish Community of Ferrara.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
@@ -46,7 +46,7 @@ the Synagogues and protect his family, was slapped around by the fascists.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/talled.jpg"  title="Prayer shawl. 20th century. Embroidered silk. Donated by Bruna Leoni Herzfeld." >}}
+{{< img src="/img/talled.jpg"  title="Prayer shawl, 20th century, donated by Bruna Leoni Herzfeld." >}}
 {{</column>}}
 {{</row>}}
 

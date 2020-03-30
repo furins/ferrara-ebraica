@@ -8,7 +8,7 @@ prev: interstiziale2
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/tabelle_decorative.jpg" title="Sopra: TABELLE DECORATIVE DELLA SUKKAH. Ferrara, sec. XIX (?). Cartone. Comunità ebraica di Ferrara. Sotto: HAGGADAH. Bilingue italiano-ebraico, Trieste, 1863. Carta. Dono Silvana Minerbi Calabresi, Comunità ebraica di Ferrara.">}}
+{{< img src="/img/tabelle_decorative.jpg" title="Sopra: Tabelle decorative della Sukkah, Ferrara, secolo XIX (?), Comunità Ebraica di Ferrara. Sotto: Haggadah bilingue italiano-ebraico, Trieste, 1863, dono Silvana Minerbi Calabresi, Comunità Ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}

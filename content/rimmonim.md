@@ -21,12 +21,12 @@ la lettura del Libro.
 {{% /p %}}
 {{</column1>}}
 {{<column3>}}
-{{< img src="/img/rimmonim1.jpg" title="RIMMONIM. PUNTALI. Italia settentrionale, sec. XVIII. Argento sbalzato e inciso. Da Cento. Comunità ebraica di Ferrara.">}}
+{{< img src="/img/rimmonim1.jpg" title="Rimmonim, Puntali, Italia settentrionale, secolo XVIII, da Cento, Comunità Ebraica di Ferrara.">}}
 {{</column3>}}
 {{<column3>}}
-{{< img src="/img/rimmonim2.jpg" title="RIMMONIM. PUNTALI. Italia settentrionale, prima metà sec. XIX. Argento sbalzato e inciso. Da Cento. Comunità ebraica di Ferrara.">}}
+{{< img src="/img/rimmonim2.jpg" title="Rimmonim, Puntali, Italia settentrionale, prima metà secolo XIX, da Cento, Comunità Ebraica di Ferrara.">}}
 {{</column3>}}
 {{<column3>}}
-{{< img src="/img/rimmonim3.jpg" title="RIMMONIM. PUNTALI. Italia settentrionale, sec. XVIII. Argento sbalzato, inciso e parzialmente dorato. Da Cento. Comunità ebraica di Ferrara.">}}
+{{< img src="/img/rimmonim3.jpg" title="Rimmonim, Puntali, Italia settentrionale, secolo XVIII, da Cento, Comunità Ebraica di Ferrara.">}}
 {{</column3>}}
 {{</row>}}

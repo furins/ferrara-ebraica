@@ -35,6 +35,6 @@ La data è espressa in lettere dell’alfabeto ebraico, ad ogni lettera corrispo
 indicate da piccoli segni, spesso punti.{{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/corone.jpg" title="ATARAH. CORONA. Italia settentrionale, inizio sec. XIX. Argento sbalzato, cesellato, inciso e parzialmente dorato. Da Cento. Comunità ebraica di Ferrara." >}}
+{{< img src="/img/corone.jpg" title="Destra: Atarah, Corona, Italia settentrionale, inizio secolo XIX, da Cento, Comunità Ebraica di Ferrara. Sinistra: Atarah, Corona, Venezia, inizio secolo XVIII, da Cento, Comunità Ebraica di Ferrara" >}}
 {{</column>}}
 {{</row>}}

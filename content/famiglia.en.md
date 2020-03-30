@@ -8,7 +8,7 @@ prev: interstiziale2
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/tabelle_decorative.jpg" title="Above: Sukkah decorations. Ferrara, 19th century (?). Cardboard. Jewish Community of Ferrara. Below: Haggadah. Bilingual Italian-Hebrew, Trieste, 1863. Paper. Donated by Silvana Minerbi Calabresi, Jewish Community of Ferrara." >}}
+{{< img src="/img/tabelle_decorative.jpg" title="Above: Sukkah decorations, Ferrara, 19th century (?), Jewish Community of Ferrara. Below: Bilingual Italian-Hebrew Haggadah, Trieste, 1863, donated by Silvana Minerbi Calabresi, Jewish Community of Ferrara." >}}
 {{</column>}}
 {{<column>}}
 {{% p %}}

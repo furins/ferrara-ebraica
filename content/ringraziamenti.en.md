@@ -1,91 +1,121 @@
 ---
-title: Credits
+title: ""
 permalink: credits
 ordine: 4
 prev: ""
 ---
-##### The realization of the exhibition was made possible thanks to the collaboration of the MUNICIPALITY OF FERRARA and the Jewish Community of Ferrara, which lent to MEIS most of the objects exhibited and presented here. The exhibition was supported by HOLDING FERRARA SERVIZI, with the patronage of the Emilia-Romagna Region and the Union of Italian Jewish Communities.
+{{< logo >}}
 
-##### MEIS thanks in particular the Mayor Alan Fabbri, the Councilor for Culture, Museums, Historical Monuments and Civilization of Ferrara UNESCO Marco Gulinelli and the Councilor for Budget and Accounting, Participations, Trade and Tourism Matteo Fornasini, and it is particularly grateful to the President of the Jewish Community of Ferrara Fortunato Arbib and to the Chief Rabbi Luciano Meir Caro.
+{{< centrato >}}
+Organized by the
+<br>
+<span style="font-size: 140%; font-weight: bold;">NATIONAL MUSEUM OF ITALIAN JUDAISM AND THE SHOAH</span>
+<br>
+from 13/11/2019 to 01/03/2020
+{{< /centrato >}}
+{{< spacer >}}
 
-# Organized by the
-National Museum of Italian Judaism and the Shoah
-## Direction
-Simonetta Della Seta
-## Curated by
-Sharon Reichel
-## Design and Works management
+{{<row>}}
+{{<column3 classe="is-center">}}
+
+{{<ruolo>}}Direction{{</ruolo>}}
+{{<persona>}}Simonetta Della Seta{{</persona>}}
+{{</column3>}}
+{{<column3 classe="is-center">}}
+
+{{<ruolo>}}Curator{{</ruolo>}}
+{{<persona>}}Sharon Reichel{{</persona>}}
+{{</column3>}}
+{{<column3 classe="is-center">}}
+
+{{<ruolo>}}Design 
+and Works management{{</ruolo>}}
+{{<persona>}}Giulia Gallerani{{</persona>}}
 Giulia Gallerani
-## Safety Manager
-Elisabetta Mancini
-## Communication Officer
-Rachel Silvera
-## Administrative Secretariat
-Nicola Novelli
-## Organizational Secretariat
-Alessandra Roncarati
-Donatella Buonfrate
-## Graphics and Web
-Stefano Furin
-## Photography
-Marco Caselli Nirmal
-## Music
-**Recordings** Enrico Fink. 
-**Musicians** Enrico Fink, Arlo Bigazzi, Frank London, Gabriele Coen, Stefano Saletti, Giuseppe de Trizio, Roni Beraha, Matteo Scarpettini, Giovanni Cifariello, Massimiliano Dragoni, Francis Biggi, Avery Gosfield, Marco Ferrari
 
+{{</column3>}}
+{{</row>}}
+{{< spacer >}}
+{{< centrato >}}
+The realization of the exhibition was made possible thanks to the collaboration of the <b>Municipality of Ferrara</b> and the <b>Jewish Community of Ferrara</b>, which lent to MEIS most of the objects exhibited and presented here. The exhibition was supported by <b>Holding Ferrara Servizi</b>, with the patronage of the <b>Emilia-Romagna Region</b> and the <b>Union of Italian Jewish Communities</b>.
+<br>
+<br>
+The MEIS thanks in particular the Mayor <b>Alan Fabbri</b>, the Councilor for Culture, Museums, Historical Monuments and Civilization of Ferrara UNESCO <b>Marco Gulinelli</b> and the Councilor for Budget and Accounting, Participations, Trade and Tourism <b>Matteo Fornasini</b>, and it is particularly grateful to the President of the Jewish Community of Ferrara <b>Fortunato Arbib</b> and to the Chief Rabbi <b>Luciano Meir Caro</b>.
+{{< /centrato >}}
+
+{{< spacer >}}
+{{<ruolo>}}Safety Manager{{</ruolo>}}
+{{<persona>}}Elisabetta Mancini{{</persona>}}
+{{<ruolo>}}Communication Officer{{</ruolo>}}
+{{<persona>}}Rachel Silvera{{</persona>}}
+{{<ruolo>}}Administrative Secretariat{{</ruolo>}}
+{{<persona>}}Nicola Novelli{{</persona>}}
+{{<ruolo>}}Organizational Secretariat{{</ruolo>}}
+{{<persona>}}Alessandra Roncarati{{</persona>}}
+{{<persona>}}Donatella Buonfrate{{</persona>}}
+{{<ruolo>}}Graphics and Web{{</ruolo>}}
+{{<persona>}}Stefano Furin{{</persona>}}
+{{< spacer >}}
+## Photography
+{{<persona>}}Marco Caselli Nirmal{{</persona>}}
+{{< spacer >}}
+## Music
+{{<persona attivita="Recordings">}} Enrico Fink{{</persona>}}
+{{<persona attivita="Musicians">}}Enrico Fink, Arlo Bigazzi, Frank London, Gabriele Coen, Stefano Saletti, Giuseppe de Trizio, Roni Beraha, Matteo Scarpettini, Giovanni Cifariello, Massimiliano Dragoni, Francis Biggi, Avery Gosfield, Marco Ferrari{{</persona>}}
+{{< spacer >}}
 ## Video “Ferrara ebraica”
-**Film director** Ruggero Gabbai
-*Editor* Cristian Dondi and Chiara Passoni
-**Shooting** Giuseppe Scarfone and Ludovico Tesoro - Tess
-**Production** Forma International
+{{<persona attivita="Film director">}}Ruggero Gabbai{{</persona>}}
+{{<persona attivita="Editor">}}Cristian Dondi e Chiara Passoni{{</persona>}}
+{{<persona attivita="Shooting">}}Giuseppe Scarfone e Ludovico Tesoro - Tess{{</persona>}}
+{{<persona attivita="Production">}}Forma International{{</persona>}}
 
 *the video was made in collaboration with the Institute of Contemporary History of Ferrara with a contribution from the Emilia-Romagna Region, law "Memoria del Novecento"*
-
+{{< spacer >}}
 ## Videos portrait
-**Film director** Ruggero Gabbai
-**Editor** Mattia Schaumann
-**Production** Forma International
-## Translations
-Eileen Cartoon
+{{<persona attivita="Film director">}}Ruggero Gabbai{{</persona>}}
+{{<persona attivita="Editor">}}Mattia Schaumann{{</persona>}}
+{{<persona attivita="Production">}}Forma International{{</persona>}}
+{{< spacer >}}
 
-## Insurance
-Generali Italia S.p.A.
-## Realisation and Product Supply
-Digital Neon S.r.l.
-Oesse Solutions
-Cavallari Giancarlo & Roberto S.n.c.
-Malinpensa Giuliano S.n.c.
-CSI Impianti
+{{<ruolo>}}Translations {{</ruolo>}}
+{{<persona>}}Eileen Cartoon{{</persona>}}
 
-# NATIONAL MUSEUM OF ITALIAN JUDAISM AND THE SHOAH
+{{<ruolo>}}Insurance {{</ruolo>}}
+{{<persona>}}Generali Italia S.p.A.{{</persona>}}
+{{<ruolo>}}Realisation and Product Supply {{</ruolo>}}
+{{<persona>}}Digital Neon S.r.l.{{</persona>}}
+{{<persona>}}Oesse Solutions{{</persona>}}
+{{<persona>}}Cavallari Giancarlo & Roberto S.n.c.{{</persona>}}
+{{<persona>}}Malinpensa Giuliano S.n.c.{{</persona>}}
+{{<persona>}}CSI Impianti{{</persona>}}
+{{< spacer >}}
+## NATIONAL MUSEUM OF ITALIAN JUDAISM AND THE SHOAH
+{{<ruolo>}}President {{</ruolo>}}
+{{<persona>}}Dario Disegni{{</persona>}}
+{{<ruolo>}}Board of Directors{{</ruolo>}}
+{{<persona>}}Gloria Arbib{{</persona>}}
+{{<persona>}}Massimo Mezzetti{{</persona>}}
+{{<persona>}}Giovanni Franco Pernisa{{</persona>}}
+{{<persona>}}Daniele Ravenna{{</persona>}}
+{{<ruolo>}}Board of Auditors{{</ruolo>}}
+{{<persona>}}Fabio Giuliani, Presidente{{</persona>}}
+{{<persona>}}Francesco Badia{{</persona>}}
+{{<persona>}}Riccardo Bauer{{</persona>}}
+{{<ruolo>}}Director{{</ruolo>}}
+{{<persona>}}Simonetta Della Seta{{</persona>}}
+{{< spacer >}}
+{{<ruolo>}}Tickets, information and bookings{{</ruolo>}}
+{{<persona>}}CoopCulture{{</persona>}}
+{{<ruolo>}}Security{{</ruolo>}}
+{{<persona>}}Sicuritalia S.p.A.{{</persona>}}
+{{<ruolo>}}Library{{</ruolo>}}
+{{<persona>}}Le Pagine{{</persona>}}
 
-## President
-Dario Disegni
-## Board of Directors
-Gloria Arbib
-Massimo Mezzetti
-Giovanni Franco Pernisa
-Daniele Ravenna
-## Board of Auditors
-Fabio Giuliani, **President**
-Francesco Badia
-Riccardo Bauer
-## Director
-Simonetta Della Seta
-
-## Tickets, information and bookings
-CoopCulture
-## Security
-Sicuritalia S.p.A.
-## Library
-Le Pagine
-
-## With the collaboration of
-
-Ferrara Municipality
-Jewish Community of Ferrara
-## With the support of
-Ferrara Servizi Holding
-## Under the patronage of
-Emilia-Romagna Region
-UCEI
+{{<ruolo>}}With the collaboration of{{</ruolo>}}
+{{<persona>}}Ferrara Municipality{{</persona>}}
+{{<persona>}}Jewish Community of Ferrara{{</persona>}}
+{{<ruolo>}}With the support of{{</ruolo>}}
+{{<persona>}}Ferrara Servizi Holding{{</persona>}}
+{{<ruolo>}}Under the patronage of{{</ruolo>}}
+{{<persona>}}Emilia-Romagna Region{{</persona>}}
+{{<persona>}}UCEI{{</persona>}}

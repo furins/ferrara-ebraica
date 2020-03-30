@@ -8,8 +8,8 @@ prev: mappa
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/storia1.jpg" title="Modello del ghetto di Ferrara. 2013." >}}
-{{< img src="/img/corona.jpg" title="CORONA DELL’ARON HA-QODESH DELLA SINAGOGA ITALIANA. Ferrara, sec. XVIII. Legno dipinto e dorato. Comunità ebraica di Ferrara">}}
+{{< img src="/img/storia1.jpg" title="Modello del ghetto di Ferrara, 2013." >}}
+{{< img src="/img/corona.jpg" title="Corona dell’Aron Ha-Qodesh della Sinagoga Italiana, Ferrara, secolo XVIII, Comunità Ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
@@ -50,6 +50,6 @@ proteggere i suoi famigliari viene schiaffeggiato dai fascisti.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/talled.jpg" title="Scialle di preghiera. XX sec. Seta con ricami. Dono di Bruna Leoni Herzfeld." >}}
+{{< img src="/img/talled.jpg" title="Scialle di preghiera, secolo XX, dono di Bruna Leoni Herzfeld." >}}
 {{</column>}}
 {{</row>}}

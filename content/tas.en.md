@@ -20,9 +20,9 @@ Some tas have a dedication, in Hebrew, bearing the name of the donor.
 {{% /p %}}
 {{</column1>}}
 {{<column>}}
-{{< img src="/img/piastra.jpg" title="TAS. TORAH BREASTPLATE. Northern Italy, 18th century ca.. Silver repoussé, engraved. From Cento. Jewish Community of Ferrara." >}}
+{{< img src="/img/piastra.jpg" title="Tas, Torah breastplate, Northern Italy, 18th century ca., from Cento, Jewish Community of Ferrara." >}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/piastra2.jpg" title="TAS. TORAH BREASTPLATE. Northern Italy, 18th century ca.. Silver repoussé, engraved. From Cento. Jewish Community of Ferrara." >}}
+{{< img src="/img/piastra2.jpg" title="Tas, Torah breastplate, Northern Italy, 18th century ca., from Cento, Jewish Community of Ferrara." >}}
 {{</column>}}
 {{</row>}}

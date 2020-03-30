@@ -25,6 +25,6 @@ acquisti in città, fino alla sua definitiva chiusura.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/finzi2.jpg" class="altezza-massima" title="Cesare Finzi e la moglie. Sullo sfondo: INSEGNA DELLA PROFUMERIA FINZI. Ferrara, XX sec.. Ferro. Dono di Cesare Moisè e Manlio Finzi.">}}
+{{< img src="/img/finzi2.jpg" class="altezza-massima" title="Cesare Finzi e la moglie. Sullo sfondo: Insegna della Profumeria Finzi, Ferrara, secolo XX, dono di Cesare Moisè e Manlio Finzi.">}}
 {{</column>}}
 {{</row>}}

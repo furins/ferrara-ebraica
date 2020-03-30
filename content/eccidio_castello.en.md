@@ -23,6 +23,6 @@ shot in front of the wall of the Estense Castle. The bodies were left outside th
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/eccidio.png" title="Mario Capuzzo. (Badia Polesine (RO) June 2, 1902 - Pontemaodino. (FE), April 10, 1978). The massacre of the estense castle. Drawings and water paintings. Donated by Sonia Longhi." >}}
+{{< img src="/img/eccidio.png" title="Mario Capuzzo, The massacre of the estense castle, donated by Sonia Longhi." >}}
 {{</column>}}
 {{</row>}}

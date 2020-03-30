@@ -28,6 +28,7 @@ Following the difficult return to life after the Second World War, the Jewish co
 Cento; part of this collection is still in use today and several items are here on display.{{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/via_mazzini.png" >}}
+{{< img src="/img/via_mazzini-dark.png" class="only-light">}}
+{{< img src="/img/via_mazzini.png" class="only-dark">}}
 {{</column>}}
 {{</row>}}

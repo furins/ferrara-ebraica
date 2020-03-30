@@ -8,7 +8,7 @@ prev: sinagoga
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/shofar.jpg" title="SHOFAR. 20th century. Horn. Owned by Rav Luciano Caro.">}}
+{{< img src="/img/shofar.jpg" title="Shofar, 20th century, owned by Rav Luciano Caro.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}

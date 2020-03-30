@@ -8,7 +8,7 @@ prev: interstiziale1
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/aron.jpg" title="ARON HA-QODESH. ARMADIO SACRO. Cento, sec. XIX. Legno dipinto. Comunità ebraica di Ferrara.">}}
+{{< img src="/img/aron.jpg" title="Aron Ha-Qodesh, Armadio del Sacro, Cento, secolo XIX, Comunità Ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
@@ -42,7 +42,7 @@ verso il centro, utilizzando due manici, chiamati *etzei chayyim*, (alberi della
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/bibbia.jpg" title="SEFER TORAH. ROTOLO DELLA TORAH. Italia, sec. XVII (?). Manoscritto su pergamena. Comunità ebraica di Ferrara" >}}
-{{< img src="/img/libri_preghiere.jpg" title="Sinistra: Libro di preghiera. Italia, 1714. Carta, cuoio e argento. Destra: Libro di preghiera. Italia, 1736. Carta, velluto con decorazioni dorate. Dono di Silvana Minerbi Calabresi, Comunità ebraica di Ferrara." >}}
+{{< img src="/img/bibbia.jpg" title="Sefer Torah, Rotolo della Torah, Italia, secolo XVII (?), Comunità Ebraica di Ferrara." >}}
+{{< img src="/img/libri_preghiere.jpg" title="Sinistra: Libro di preghiera, Italia, 1714, Comunità Ebraica di Ferrara. Destra: Libro di preghiera. Italia, 1736, dono di Silvana Minerbi Calabresi, Comunità Ebraica di Ferrara." >}}
 {{</column>}}
 {{</row>}}

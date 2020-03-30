@@ -33,6 +33,6 @@ The Jewish year is written in Hebrew letters, each of which has a numerical valu
 often dots.{{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/corone.jpg" title="KETER. CROWN. Northern Italy, early 19th century. Silver repoussé, chiseled, engraved and partly gilt. From Cento. Jewish Community of Ferrara.">}}
+{{< img src="/img/corone.jpg" title="Right: Keter, Crown, Northern Italy, early 19th century, from Cento, Jewish Community of Ferrara. Left: Keter, Crown, Venice, early 18th century, from Cento, Jewish Community of Ferrara.">}}
 {{</column>}}
 {{</row>}}

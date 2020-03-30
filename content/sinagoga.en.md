@@ -8,7 +8,7 @@ prev: interstiziale1
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/aron.jpg" title="ARON HA-QODESH. HOLY ARK. Cento, 19th century. Wood, painted. Jewish Community of Ferrara.">}}
+{{< img src="/img/aron.jpg" title="Aron Ha-Qodesh, Holy Ark, Cento, 19th century, Jewish Community of Ferrara.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}
@@ -44,7 +44,7 @@ two, the *etzei chayyim* or the trees of life, and is wound inward on each one t
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/bibbia.jpg" title="SEFER TORAH. TORAH SCROLL. Italy, 17th century (?). Parchment, manuscript. Jewish Community of Ferrara.">}}
-{{< img src="/img/libri_preghiere.jpg" title="Left: Prayer book. Italy, 1714. Paper, leather and silver. Right: Prayer book. Italy, 1736. Paper, velvet with golden decorations. Donated by Silvana Minerbi Calabresi, Jewish Community of Ferrara." >}}
+{{< img src="/img/bibbia.jpg" title="Sefer Torah, Torah Scroll, Italy, 17th century (?), Jewish Community of Ferrara.">}}
+{{< img src="/img/libri_preghiere.jpg" title="Left: Prayer book, Italy, 1714, Jewish Community of Ferrara. Right: Prayer book. Italy, 1736, donated by Silvana Minerbi Calabresi, Jewish Community of Ferrara." >}}
 {{</column>}}
 {{</row>}}
