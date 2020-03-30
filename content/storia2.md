@@ -23,7 +23,7 @@ Sociale Italiana. I beni e gli oggetti sinagogali scampati alle razzie sono requ
 Di questi oggetti ci restano oggi solo due liste, redatte con precisione dalla Guardia di Finanza e dalla Prefettura: nell’inverno del 1944 i fascisti subiscono, a
 loro volta, il furto degli oggetti requisiti.{{% /p %}}
 
-{{% p %}}Con il difficile ritorno alla vita dopo la seconda guerra mondiale, la comunità ebraica di Ferrara eredita gli oggetti della comunità ebraica di Cento, di questa
+{{% p %}}Con il difficile ritorno alla vita dopo la seconda guerra mondiale, la comunità ebraica di Ferrara eredita gli oggetti della comunità ebraica di Cento; di questa
 collezione parte è tutt’ora in uso, parte è esposta in mostra.{{% /p %}}
 {{</column>}}
 {{<column>}}

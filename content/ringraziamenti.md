@@ -4,12 +4,40 @@ permalink: credits
 ordine: 4
 prev: ""
 ---
+{{< centrato >}}
+<span style="font-size: 140%; font-weight: bold;">
+MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH
+</span>
+{{< /centrato >}}
+{{<row>}}
+{{<column3 classe="is-center">}}
+{{<ruolo>}}Presidente {{</ruolo>}}
+{{<persona>}}Dario Disegni{{</persona>}}
+{{<ruolo>}}Direttore{{</ruolo>}}
+{{<persona>}}Simonetta Della Seta{{</persona>}}
+{{</column3>}}
+{{<column3 classe="is-center">}}
+{{<ruolo>}}Consiglio di Amministrazione{{</ruolo>}}
+{{<persona>}}Gloria Arbib{{</persona>}}
+{{<persona>}}Massimo Mezzetti{{</persona>}}
+{{<persona>}}Giovanni Franco Pernisa{{</persona>}}
+{{<persona>}}Daniele Ravenna{{</persona>}}
+{{</column3>}}
+{{<column3 classe="is-center">}}
+{{<ruolo>}}Collegio Sindacale{{</ruolo>}}
+{{<persona>}}Fabio Giuliani, Presidente{{</persona>}}
+{{<persona>}}Francesco Badia{{</persona>}}
+{{<persona>}}Riccardo Bauer{{</persona>}}
+{{</column3>}}
+{{</row>}}
+{{< spacer >}}
+
 {{< logo >}}
 
 {{< centrato >}}
 organizzata e allestita dal
 <br>
-<span style="font-size: 140%; font-weight: bold;">MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH </span>
+<span style="font-size: 140%; font-weight: bold;">MEIS</span>
 <br>
 dal 13/11/2019 al 01/03/2020
 {{< /centrato >}}
@@ -66,6 +94,7 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 {{<persona attivita="Musicisti">}}Enrico Fink, Arlo Bigazzi, Frank London, Gabriele Coen, Stefano Saletti, Giuseppe de Trizio, Roni Beraha, Matteo Scarpettini, Giovanni Cifariello, Massimiliano Dragoni, Francis Biggi, Avery Gosfield, Marco Ferrari{{</persona>}}
 {{< spacer >}}
 ## Video “Ferrara ebraica”
+{{<persona attivita="A cura di">}}Simonetta Della Seta e Ruggero Gabbai{{</persona>}}
 {{<persona attivita="Regia">}}Ruggero Gabbai{{</persona>}}
 {{<persona attivita="Montaggio">}}Cristian Dondi e Chiara Passoni{{</persona>}}
 {{<persona attivita="Riprese">}}Giuseppe Scarfone e Ludovico Tesoro - Tess{{</persona>}}
@@ -74,10 +103,14 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 *il video è stato realizzato in collaborazione con Istituto di Storia Contemporanea di Ferrara con un contributo della Regione Emilia Romagna, legge Memoria del Novecento*
 {{< spacer >}}
 ## Ritratti filmati
+{{<persona attivita="A cura di">}}Simonetta Della Seta e Ruggero Gabbai{{</persona>}}
 {{<persona attivita="Regia">}}Ruggero Gabbai{{</persona>}}
 {{<persona attivita="Montaggio">}}Mattia Schaumann{{</persona>}}
 {{<persona attivita="Produzione">}}Forma International{{</persona>}}
 {{< spacer >}}
+
+## Modello tridimensionale
+{{<persona>}}Tryeco{{</persona>}}
 
 {{<ruolo>}}Traduzioni {{</ruolo>}}
 {{<persona>}}Eileen Cartoon{{</persona>}}
@@ -91,33 +124,13 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 {{<persona>}}Malinpensa Giuliano S.n.c.{{</persona>}}
 {{<persona>}}CSI Impianti{{</persona>}}
 {{< spacer >}}
-## MUSEO NAZIONALE DELL'EBRAISMO ITALIANO E DELLA SHOAH
-{{<ruolo>}}Presidente {{</ruolo>}}
-{{<persona>}}Dario Disegni{{</persona>}}
-{{<ruolo>}}Consiglio di Amministrazione{{</ruolo>}}
-{{<persona>}}Gloria Arbib{{</persona>}}
-{{<persona>}}Massimo Mezzetti{{</persona>}}
-{{<persona>}}Giovanni Franco Pernisa{{</persona>}}
-{{<persona>}}Daniele Ravenna{{</persona>}}
-{{<ruolo>}}Collegio Sindacale{{</ruolo>}}
-{{<persona>}}Fabio Giuliani, Presidente{{</persona>}}
-{{<persona>}}Francesco Badia{{</persona>}}
-{{<persona>}}Riccardo Bauer{{</persona>}}
-{{<ruolo>}}Direttore{{</ruolo>}}
-{{<persona>}}Simonetta Della Seta{{</persona>}}
+
 {{< spacer >}}
 {{<ruolo>}}Biglietteria, informazioni e prenotazioni{{</ruolo>}}
 {{<persona>}}CoopCulture{{</persona>}}
-{{<ruolo>}}Sicurezza{{</ruolo>}}
-{{<persona>}}Sicuritalia S.p.A.{{</persona>}}
+{{<ruolo>}}MEISshop{{</ruolo>}}
+{{<persona>}}Silvana Editoriale{{</persona>}}
 {{<ruolo>}}Biblioteca{{</ruolo>}}
 {{<persona>}}Le Pagine{{</persona>}}
-
-{{<ruolo>}}Con la collaborazione di{{</ruolo>}}
-{{<persona>}}Comune di Ferrara{{</persona>}}
-{{<persona>}}Comunità Ebraica di Ferrara{{</persona>}}
-{{<ruolo>}}Con il sostegno di{{</ruolo>}}
-{{<persona>}}Holding Ferrara Servizi{{</persona>}}
-{{<ruolo>}}Con il patrocinio di{{</ruolo>}}
-{{<persona>}}Regione Emilia-Romagna{{</persona>}}
-{{<persona>}}UCEI{{</persona>}}
+{{<ruolo>}}Sicurezza{{</ruolo>}}
+{{<persona>}}Sicuritalia S.p.A.{{</persona>}}

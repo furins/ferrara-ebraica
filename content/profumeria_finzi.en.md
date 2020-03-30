@@ -25,6 +25,6 @@ for shopping until it was finally closed.
 {{% /p %}}
 {{</column>}}
 {{<column>}}
-{{< img src="/img/finzi2.jpg" class="altezza-massima" title="Cesare Finzi with his wife. On the back: Sign from Finzi's perfumery, Ferrara, 20th century, donated by Cesare Moisè and Manlio Finzi." >}}
+{{< img src="/img/finzi2.jpg" class="altezza-massima" title="Cesare Finzi with his wife Vera. On the back: Sign from Finzi's perfumery, Ferrara, 20th century, donated by Cesare Moisè and Manlio Finzi." >}}
 {{</column>}}
 {{</row>}}

@@ -8,7 +8,7 @@ prev: mappa
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/storia1.jpg" title="Model of the ghetto of Ferrara, 2013." >}}
+{{< img src="/img/storia1.jpg" title="Model of the ghetto of Ferrara, Tryeco 2013." >}}
 {{< img src="/img/corona.jpg" title="Crown of the Holy Ark of the Italian Synagogue, Ferrara, 18th century, Jewish Community of Ferrara.">}}
 {{</column>}}
 {{<column>}}
@@ -41,7 +41,7 @@ A *tallit* is a shawl worn by men during morning prayers or after reciting a ble
 
 On the evening of September 21, 1941, a group of Fascists entered the synagogue complex on via Mazzini 95, destroying the Fanese and German synagogues:
 the furnishings were damaged, some sacred objects stolen and the *Sifrei Torah* or Torah scrolls (the Books of the Law) were burned at an improvised bonfire
-in nearby piazza Trento Trieste. That evening the fascists battered down the door to the home of Rabbi Leone Leoni who, in an attempt to halt destruction of
+in nearby piazza Trento and Trieste. That evening the fascists battered down the door to the home of Rabbi Leone Leoni who, in an attempt to halt destruction of
 the Synagogues and protect his family, was slapped around by the fascists.
 {{% /p %}}
 {{</column>}}

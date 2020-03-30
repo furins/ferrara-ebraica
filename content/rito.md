@@ -8,7 +8,7 @@ prev: sinagoga
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/shofar.jpg" title="Shofar, secolo XX, proprietà Rav Luciano Caro.">}}
+{{< img src="/img/shofar.jpg" title="Shofar, secolo XX, per gentile concessione del Rav Luciano Caro.">}}
 {{</column>}}
 {{<column>}}
 {{% p %}}

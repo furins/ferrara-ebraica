@@ -16,7 +16,7 @@ prev: interstiziale1
 
 La sinagoga, *bet ha-knesset*, è il luogo in cui gli ebrei si riuniscono per la preghiera e per lo studio della Torah. Un luogo di culto ebraico infatti, per poter
 essere definito tale, deve ospitare al suo interno almeno un *Sefer Torah* (Libro della Legge).
-I Rotoli della Torah sono contenuti nell'Aron *ha-qodesh* (armadio del santo/della santità), che è posto contro il muro della sinagoga, di norma rivolto verso Est,
+I Rotoli della Torah sono contenuti nell'*Aron ha-qodesh* (armadio del santo/della santità), che è posto contro il muro della sinagoga, di norma rivolto verso Est,
 in direzione di Gerusalemme.{{% /p %}}
 
 {{% p %}}La realizzazione delle sinagoghe era regolata dalle leggi dei luoghi di insediamento. In Italia, Ferrara compresa, fino all'equiparazione dei diritti della minoranza ebraica, era fatto divieto di segnalare la presenza dei luoghi di culto all'esterno. Le facciate degli immobili che ospitano le sinagoghe sono quindi

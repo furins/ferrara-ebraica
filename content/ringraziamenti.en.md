@@ -111,11 +111,3 @@ The MEIS thanks in particular the Mayor <b>Alan Fabbri</b>, the Councilor for Cu
 {{<ruolo>}}Library{{</ruolo>}}
 {{<persona>}}Le Pagine{{</persona>}}
 
-{{<ruolo>}}With the collaboration of{{</ruolo>}}
-{{<persona>}}Ferrara Municipality{{</persona>}}
-{{<persona>}}Jewish Community of Ferrara{{</persona>}}
-{{<ruolo>}}With the support of{{</ruolo>}}
-{{<persona>}}Ferrara Servizi Holding{{</persona>}}
-{{<ruolo>}}Under the patronage of{{</ruolo>}}
-{{<persona>}}Emilia-Romagna Region{{</persona>}}
-{{<persona>}}UCEI{{</persona>}}

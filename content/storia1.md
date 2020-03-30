@@ -8,7 +8,7 @@ prev: mappa
 
 {{<row>}}
 {{<column>}}
-{{< img src="/img/storia1.jpg" title="Modello del ghetto di Ferrara, 2013." >}}
+{{< img src="/img/storia1.jpg" title="Modello del ghetto di Ferrara, Tryeco 2013." >}}
 {{< img src="/img/corona.jpg" title="Corona dell’Aron Ha-Qodesh della Sinagoga Italiana, Ferrara, secolo XVIII, Comunità Ebraica di Ferrara.">}}
 {{</column>}}
 {{<column>}}
@@ -44,9 +44,9 @@ Il *talled* è uno scialle usato dagli uomini durante le preghiere del mattino o
 L’esemplare in mostra apparteneva al rabbino di Ferrara, Leone Leoni (1897-1964), la cui storia si intreccia con quella della comunità.
 
 La sera del 21 settembre 1941 un gruppo di fascisti entra nel complesso sinagogale di via Mazzini 95, devastando il Tempio Fanese e il Tempio Tedesco: gli
-arredi sono danneggiati, alcuni oggetti sacri rubati e dei *Sifrei Torah* (i Libri della Legge) vengono bruciati in un rogo improvvisato nella vicina piazza Trento
-Trieste. Quella sera i fascisti sfondano la porta della casa del rabbino Leone Leoni che, nel tentativo di fermare la devastazione delle Sinagoghe e di
-proteggere i suoi famigliari viene schiaffeggiato dai fascisti.
+arredi sono danneggiati, alcuni oggetti sacri rubati e dei *Sifrei Torah* (i Libri della Legge) vengono bruciati in un rogo improvvisato nella vicina piazza Trento e 
+Trieste. Quella sera i fascisti sfondano la porta della casa del rabbino Leone Leoni che, nel tentativo di fermare la devastazione delle sinagoghe e di
+proteggere i suoi famigliari, viene schiaffeggiato dai fascisti.
 {{% /p %}}
 {{</column>}}
 {{<column>}}

@@ -13,7 +13,7 @@ After the signing of the armistice on September 8, 1943, where Italy surrendered
 In Ferrara, persecutions and arrests multiplied, targeting anti-fascists and Jews.
 
 On November 13, 1943, Igino Ghisellini, a federalist (a senior fascist leader) from Ferrara, was murdered near Bologna. The news reached Verona where the
-first Congress of the Italian Social Republic was underway. Some fascist squads set off for Ferrara to take revenge, reaching the city towards evening. 
+first congress of the fascist republican party was underway. Some fascist squads set off for Ferrara to take revenge, reaching the city towards evening. 
 The
 fascists organized raids that quickly rounded up 72 citizens, and locked them in the Littorio barracks in Piazza Fausto Beretta. From this group and from the
 Jews and anti-fascists already jailed in the prisons of via Piangipane, 10 people were selected for execution to avenge the death of Ghisellini.

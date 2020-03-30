@@ -16,7 +16,7 @@ prev: interstiziale1
 
 The synagogue, *bet ha-knesset*, is the place where Jews come together to pray and study the Torah. In fact, to be defined as such, a Jewish place of worship must hold at least one Sefer Torah (the “Book” of the Law).
 
-The Torah scrolls are contained in the Aron ha-qodesh (the holy ark), generally set against the eastern wall of the synagogue, facing toward Jerusalem.
+The Torah scrolls are contained in the *Aron ha-qodesh* (the holy ark), generally set against the eastern wall of the synagogue, facing toward Jerusalem.
 
 Construction of the synagogues was governed by the laws of the land. Throughout Italy, and even in Ferrara, until equal rights were granted to the Jewish minority, such buildings could bear no external markings indicating the presence of a Jewish place of worship inside. The façades of buildings housing the
 synagogues are thus unadorned, only upon entering can one admire their beauty.
