@@ -83,7 +83,7 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 {{<ruolo>}}Segreteria organizzativa{{</ruolo>}}
 {{<persona>}}Alessandra Roncarati{{</persona>}}
 {{<persona>}}Donatella Buonfrate{{</persona>}}
-{{<ruolo>}}Grafica e web{{</ruolo>}}
+{{<ruolo>}}Realizzazione sito web{{</ruolo>}}
 {{<persona>}}Stefano Furin{{</persona>}}
 {{< spacer >}}
 ## Foto
@@ -110,7 +110,8 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 {{< spacer >}}
 
 ## Modello tridimensionale
-{{<persona>}}Tryeco{{</persona>}}
+{{<persona>}}TryeCo{{</persona>}}
+{{< spacer >}}
 
 {{<ruolo>}}Traduzioni {{</ruolo>}}
 {{<persona>}}Eileen Cartoon{{</persona>}}
@@ -123,7 +124,6 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 {{<persona>}}Cavallari Giancarlo & Roberto S.n.c.{{</persona>}}
 {{<persona>}}Malinpensa Giuliano S.n.c.{{</persona>}}
 {{<persona>}}CSI Impianti{{</persona>}}
-{{< spacer >}}
 
 {{< spacer >}}
 {{<ruolo>}}Biglietteria, informazioni e prenotazioni{{</ruolo>}}

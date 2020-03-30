@@ -4,12 +4,40 @@ permalink: credits
 ordine: 4
 prev: ""
 ---
+{{< centrato >}}
+<span style="font-size: 140%; font-weight: bold;">
+NATIONAL MUSEUM OF ITALIAN JUDAISM AND THE SHOAH
+</span>
+{{< /centrato >}}
+{{<row>}}
+{{<column3 classe="is-center">}}
+{{<ruolo>}}President {{</ruolo>}}
+{{<persona>}}Dario Disegni{{</persona>}}
+{{<ruolo>}}Direttore{{</ruolo>}}
+{{<persona>}}Simonetta Della Seta{{</persona>}}
+{{</column3>}}
+{{<column3 classe="is-center">}}
+{{<ruolo>}}Board of Directors{{</ruolo>}}
+{{<persona>}}Gloria Arbib{{</persona>}}
+{{<persona>}}Massimo Mezzetti{{</persona>}}
+{{<persona>}}Giovanni Franco Pernisa{{</persona>}}
+{{<persona>}}Daniele Ravenna{{</persona>}}
+{{</column3>}}
+{{<column3 classe="is-center">}}
+{{<ruolo>}}Board of Auditors{{</ruolo>}}
+{{<persona>}}Fabio Giuliani, Presidente{{</persona>}}
+{{<persona>}}Francesco Badia{{</persona>}}
+{{<persona>}}Riccardo Bauer{{</persona>}}
+{{</column3>}}
+{{</row>}}
+{{< spacer >}}
+
 {{< logo >}}
 
 {{< centrato >}}
 Organized by the
 <br>
-<span style="font-size: 140%; font-weight: bold;">NATIONAL MUSEUM OF ITALIAN JUDAISM AND THE SHOAH</span>
+<span style="font-size: 140%; font-weight: bold;">MEIS</span>
 <br>
 from 13/11/2019 to 01/03/2020
 {{< /centrato >}}
@@ -53,7 +81,7 @@ The MEIS thanks in particular the Mayor <b>Alan Fabbri</b>, the Councilor for Cu
 {{<ruolo>}}Organizational Secretariat{{</ruolo>}}
 {{<persona>}}Alessandra Roncarati{{</persona>}}
 {{<persona>}}Donatella Buonfrate{{</persona>}}
-{{<ruolo>}}Graphics and Web{{</ruolo>}}
+{{<ruolo>}}Website{{</ruolo>}}
 {{<persona>}}Stefano Furin{{</persona>}}
 {{< spacer >}}
 ## Photography
@@ -76,7 +104,9 @@ The MEIS thanks in particular the Mayor <b>Alan Fabbri</b>, the Councilor for Cu
 {{<persona attivita="Editor">}}Mattia Schaumann{{</persona>}}
 {{<persona attivita="Production">}}Forma International{{</persona>}}
 {{< spacer >}}
-
+## Three-dimensional model
+{{<persona>}}TryeCo{{</persona>}}
+{{< spacer >}}
 {{<ruolo>}}Translations {{</ruolo>}}
 {{<persona>}}Eileen Cartoon{{</persona>}}
 
@@ -88,26 +118,13 @@ The MEIS thanks in particular the Mayor <b>Alan Fabbri</b>, the Councilor for Cu
 {{<persona>}}Cavallari Giancarlo & Roberto S.n.c.{{</persona>}}
 {{<persona>}}Malinpensa Giuliano S.n.c.{{</persona>}}
 {{<persona>}}CSI Impianti{{</persona>}}
-{{< spacer >}}
-## NATIONAL MUSEUM OF ITALIAN JUDAISM AND THE SHOAH
-{{<ruolo>}}President {{</ruolo>}}
-{{<persona>}}Dario Disegni{{</persona>}}
-{{<ruolo>}}Board of Directors{{</ruolo>}}
-{{<persona>}}Gloria Arbib{{</persona>}}
-{{<persona>}}Massimo Mezzetti{{</persona>}}
-{{<persona>}}Giovanni Franco Pernisa{{</persona>}}
-{{<persona>}}Daniele Ravenna{{</persona>}}
-{{<ruolo>}}Board of Auditors{{</ruolo>}}
-{{<persona>}}Fabio Giuliani, Presidente{{</persona>}}
-{{<persona>}}Francesco Badia{{</persona>}}
-{{<persona>}}Riccardo Bauer{{</persona>}}
-{{<ruolo>}}Director{{</ruolo>}}
-{{<persona>}}Simonetta Della Seta{{</persona>}}
+
 {{< spacer >}}
 {{<ruolo>}}Tickets, information and bookings{{</ruolo>}}
 {{<persona>}}CoopCulture{{</persona>}}
-{{<ruolo>}}Security{{</ruolo>}}
-{{<persona>}}Sicuritalia S.p.A.{{</persona>}}
+{{<ruolo>}}MEISshop{{</ruolo>}}
+{{<persona>}}Silvana Editoriale{{</persona>}}
 {{<ruolo>}}Library{{</ruolo>}}
 {{<persona>}}Le Pagine{{</persona>}}
-
+{{<ruolo>}}Security{{</ruolo>}}
+{{<persona>}}Sicuritalia S.p.A.{{</persona>}}
