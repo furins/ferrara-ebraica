@@ -101,7 +101,7 @@ Il MEIS ringrazia  in particolare il Sindaco <b>Alan Fabbri</b> l’Assessore al
 {{<persona attivita="Riprese">}}Giuseppe Scarfone e Ludovico Tesoro - Tess{{</persona>}}
 {{<persona attivita="Produzione">}}Forma International{{</persona>}}
 
-*il video è stato realizzato in collaborazione con Istituto di Storia Contemporanea di Ferrara con un contributo della Regione Emilia Romagna, legge Memoria del Novecento*
+*il video è stato realizzato in collaborazione con Istituto di Storia Contemporanea di Ferrara con un contributo della Regione Emilia-Romagna, legge Memoria del Novecento*
 {{< spacer >}}
 ## Ritratti filmati
 {{<persona attivita="A cura di">}}Simonetta Della Seta e Ruggero Gabbai{{</persona>}}
